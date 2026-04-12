@@ -1,0 +1,843 @@
+f9300297fcdea73ec8d6003318c3d6b628fdf458
+98997b652f9a3736bd84905ff7e9a0dec4461f40
+8ca3383f27826f1e1369f31f1285fb8b57ef9cea
+5ac2251fb6830fd9d14f17b0b7b9a85079067e98
+01be12b045af47927a58b154b714cb872aa8467d
+e5cfa2fa868b427d9b83a65c133a83b708606617
+9ce760e36b3388442a1078224d43e7dfb79ead26
+dfba08e2a62aacccb81d9c0d508ec7b3e340fb19
+11acb478033219a27af6b3a0c0bb8c79dda61056
+4a42a8631ebafc51ce670d30940fe8aa82193111
+4649df4028f80d1328e4fed844b0323311f3f2bb
+db95f28a3dcf0c5b1946ae965249f0e2179c2420
+92412c24b9635f5ef592e65e5e0d25422bf3e3e4
+ea3f207eb9e0fe0518cfb16947c8932150086e77
+c088f17e7ffc2231bc1b8b3f557428c2e2617065
+064cc949ea88f637a453958c92bbae148b38b690
+554cbfdbeed1bae8fdec3426bdd931e523d5f944
+5be545472489c48bb6831a99496376981acda3ac
+f8942b60b60a0d7568c73ff9286ee5783e674759
+f7c11e9cbedb0ce2bdeeabf774d99a81e754f4c3
+f6f6fa7e99194452aba615afcd0d5a84cd40f99b 
+dfe0770424b2a19faf507a501ebfc23be8f54e7b .gitattributes
+91121fa4e21997d42827520d8d446c2a5c67b7f3 ALGORITMOS
+d444c83d3ba1fdf8d7b22db24629fe0a6091ba78 ALGORITMOS/ALGORITMOS - LOGICA PARA DESENVOLVIMENTO_ DE PROGRAMAÇAO DE COMPUTADORES.pdf
+d46d17e5166e7900352a53c89a49fd30f6cbcc2d ALGORITMOS/AlgorithmsNotesForProfessionals.pdf
+32191d2ad486ed93bcaf2c675efe626a5bbd168a ALGORITMOS/Algoritmos - Teoria e Prática (Thomas H. Cormen,  Charles E. Leiserson etc.).pdf
+1b71774405ba30ed6a238d22cebb938136921df2 ALGORITMOS/Entendendo Algoritmos - 1ª Edição - Aditya Y. Bhargava - 2017.pdf
+da4b18f1eb19005475c15f1442af314ceffc3f5d ALGORITMOS/Estruturas De Dados E Seus Algoritmos.pdf
+e2220c0c4c9542f0392908fc92b4d301dfad7e03 ALGORITMOS/Estruturas de dados e algoritmos com JavaScript (Loiane Groner) .pdf
+92f17166617c41398dd69b9d3740579c949e13d6 ARQUITETURA
+95a6a7f58ef6f3f2570a8b585c7b630ab7d7ff9a ARQUITETURA/Arquitetura Limpa - O Guia do Artesão para Estrutura e Design de Software (Robert C. Martin) (z-lib.org).pdf
+b49d64f7507923c1567ce2a57d9c8965443b8a0d ARQUITETURA/Book - Padrões de Projeto - Solucões Reutilizáveis de Software Orientado a Objetos.pdf
+a9c20251c2e0f14ebd5d6b8f19619755d4c19d9f ARQUITETURA/Como ser um programador melhor.pdf
+b5d0a2c1d5bfe47f24bd46837fbac834e0d8ff25 ARQUITETURA/Desenvolvimento Ágil Limpo (Robert C. Martin [Martin, Robert C.]) (z-lib.org).pdf
+ae482a5a1cb24be1b42d93e1d45ebc305caf6da4 ARQUITETURA/Fragmentos de um programador - Artigos e insights da carreira de um profissional.pdf
+3498d95844cbd46c23094a94d51ea07ae9aa178a ARQUITETURA/Guia do Mestre Programador.pdf
+6627383a8abe2606f4e04bdb6fb3b95a6926d343 ARQUITETURA/Introdução a arquitetura e design de software - Uma visão sobre a plataforma JAVA.pdf
+5d1c5b44cacc2090f5526048a861d40b5ef51a8c ARQUITETURA/Microsserviços prontos para a Produção - 1ª Edição - Susan J. Fowler - 2017.pdf
+8804f89dbabef3f0648c32a6d207518dcb14d480 ARQUITETURA/Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis (Mauricio Aniche) (z-lib.org).pdf
+ce321ec04432c13b557d5272804bd9285ba9d6f7 ARQUITETURA/Refatoração Aperfeiçoando o Design de Códigos Existentes (Martin Fowler) (z-lib.org).pdf
+62d47653479cee38aca4f3985d171c98b38dff27 ARQUITETURA/Software Architecture The Hard Parts.pdf
+9e1ff280a7aa9c5edef2a986695426f26f40a8df ARQUITETURA/fundamentals-of-software-architecture-an-engineering-approach-1n.pdf
+10e818343c254857078b641dbb8dcd550394acca Aprendizagem de Maquina
+09ac25b29d1c8c5f99a9486db0928e518715a339 Aprendizagem de Maquina/10.1007-3-540-44795-4.pdf
+cb13ed607780100c4017d26df37cf0028a5b651d Aprendizagem de Maquina/10.1007-978-1-4419-9011-2.pdf
+7feb139a62a85a934711a7ce51cf6e99eab0f755 Aprendizagem de Maquina/2021_Book_MachineLearningForCyberPhysica.pdf
+3c6b6c10638465e3587c7787046b420c3d7518c5 Aprendizagem de Maquina/9781681089409-sample.pdf
+5f34dfed23f2818fe728559e924aab1273759c8a Aprendizagem de Maquina/NCML-02-2018.pdf
+79f5201f13aef76c368124326feeb798ced56919 Aprendizagem de Maquina/aplicacoes-de-machine-learning-resultados-de-um-curso-de-verao.pdf
+d7e57381cd07af54bb13825192bcb08673e4e4bf Aprendizagem de Maquina/mit_press_book_9780262374736.pdf
+792fa8ff27a496fbb604864dee8f66592cdf54e7 BACK-END
+84e17fd9a236d5b066b1489296d5ee7e1bbdb997 BACK-END/C#
+e68c8c5e57d8aca23df5a939ad4fd108f61309a9 BACK-END/C#/C# e Orientação a Objetos - Caelum, FN-13.pdf
+3740d133c85efc9edd28e6d05b496386119dacd6 BACK-END/C#/CSharpIniciantes.pdf
+4a10dc270d3bdd58289edc21ff12450bb505cea9 BACK-END/C#/POO.md
+3c62faed49d2b83f275d982bf8e1d94b5c021833 BACK-END/C#/Use a Cabeça - C# (1).pdf
+0ad05854f138e956339f6cc4ba302fef7575b4db BACK-END/C#/apostila-csharp-orientacao-objetos.pdf
+3e696fd10091d96bbf1419c658dc21ee85326686 BACK-END/C#/design-patterns-com-c-aprenda-padroes-de-projeto-com-os-games_compress.pdf
+b04cc8e5a18fee98d3b0d6e40f6851a213e306f5 BACK-END/Introdução à Computação Da Lógica aos jogos com Ruby - Casa do Codigo.pdf
+12ddc918212ef74aef88b5dc59c4f1d3111ec219 BACK-END/JAVA
+c7ebdbb2b1ef822af7ced1a479fa4a03c94048ea BACK-END/JAVA/Aplicacoes Java para a Web Com JDF e JPA - Casa do Codigo.pdf
+d58894a5b36b943fa9bafb3fbb1ecd084090bac7 BACK-END/JAVA/CDI Integre as dependencias e contextos do seu codigo Java - Casa do Codigo.pdf
+11698e6c4e3f29d898d97005dd5513605e96f90c BACK-END/JAVA/Componentes Reutilizaveis em Java Com Reflexoes e Anotacoes - Casa do Codigo.pdf
+3127024bbe6786317317cc61ac6cace23352a934 BACK-END/JAVA/Desbravando Java e Orientação a Objetos Um guia para o iniciante da linguagem - Casa do Codigo.pdf
+527d33cf4487ae3bcdb6148a86d97de95214f763 BACK-END/JAVA/Design Patterns com Java - Projeto orientado a objetos guiado por padrões - Casa do Codigo.pdf
+7be3782f4402b161db3b7b19f39abad8efadc8ac BACK-END/JAVA/Design Patterns com Java_ Projeto orientado a objetos guiado por padrões.pdf
+4c03dc1f2a69a48e28ee43b9af673a8cb97a2fe3 BACK-END/JAVA/Explorando APIs e bibliotecas Java JDBC, IO, Threads, JavaFX e mais - Casa do Codigo.pdf
+cfd3d7691ce7b90c99e4eb9dda495f5665fdd2a7 BACK-END/JAVA/JSF Eficaz - As melhores práticas para o desenvolvedor web Java - Casa do Codigo.pdf
+eba7319c8fb38938cd1c266deb91a7da3b105b98 BACK-END/JAVA/Java - Frameworks e Aplicações Corporativas.pdf
+55bb1f72876b51189ff98ad518272aa3d7a09a3e BACK-END/JAVA/Java 8 Pratico Lambdas Streams e os Novos Recursos da Linguagem - Casa do Codigo.pdf
+3372b85922964738ed83ab198db0c68aed2948ae BACK-END/JAVA/Java Efetivo (Terceira Edição) (Joshua Bloch) (z-lib.org).pdf
+b7ad415e55b16b3b91eb60c3f21c618e5e39ac50 BACK-END/JAVA/Java SE 7 Programmer I O guia para sua certificação Oracle Certified Associate - Casa do Codigo.pdf
+57094a7b12f4645bd992ddcfdccb81819dd1bc25 BACK-END/JAVA/Java e Orientações a Objetos.pdf
+47f95512659a0e1844d248bd5bdcfcdd5542189f BACK-END/JAVA/Java para Desenvolvimento Web - Caelum, FJ-21.pdf
+6901f4df5b5f5cd14721105a4b29f5d52addda49 BACK-END/JAVA/JavaFX - Interfaces com qualidade para aplicacoes desktop.pdf
+c1efb4365cdee01353f95c91be3cec56ba68a772 BACK-END/JAVA/Java_ Java Programming For Beginners - A Simple Start to Java Programming.pdf
+499a7a30406a5f2477f70c1196dde77f9fc2a913 BACK-END/JAVA/Java_Programming.pdf
+969b690ed9cdb06ef53d338de893c89c6552e73c BACK-END/JAVA/Microservices Patterns With examples in Java by Chris Richardson (z-lib.org).pdf
+b980d8f93c6bb04473b544b0389271d4eecd6f29 BACK-END/JAVA/MundoJ - Java efetivo - Casa do Codigo.pdf
+1604de65419a2d96470f81e4845e50a9f15cae97 BACK-END/JAVA/MundoJ Orientação a Objetos.pdf
+773c078929ac5ebb7975284ca0e3e0115dcaabda BACK-END/JAVA/MundoJ Segurança com Java - Casa do Codigo.pdf
+19fb9421deda6575c5fe3bfe4a6df52c884eeaf9 BACK-END/JAVA/OCP-Oracle-Certified-Professional-Java-SE-17-Developer-Study-Guide-Exam-1Z0-829.pdf
+3068d176041741cbbd81cb6f24b6709fc11932de BACK-END/JAVA/Oauth 2.0 Proteja Suas Aplicacoes Com O Spring Security Oauth2 (Adolfo Eloy - Casa do Codigo) (z-lib.org).pdf
+20566340bccc647826740dab7f25d480674628a1 BACK-END/JAVA/PaulDeitel-HarveyDeitel-Java-ComoProgramar-10Edicao.pdf
+a4071539c499ba7dc0f6b9b048987138cf956293 BACK-END/JAVA/Programação em Java.pdf
+9bfbc4da930e4b26dbd4135304dc667f119600f9 BACK-END/JAVA/Quarkus-For-Spring-Developers-Red-Hat.pdf
+9c71fed56045f9b088a9a727ac66f86a09da64c3 BACK-END/JAVA/Spring Boot_ Microsservicos na - Caio Costa.pdf
+08fd2999f46cbd58c251930c8931e3de945f3b18 BACK-END/JAVA/Spring MVC Domine o principal framework web Java - Casa do Codigo.pdf
+52cceaad8ffb7033116536cebe65feeba6cc0f57 BACK-END/JAVA/SpringFrameworkNotesForProfessionals.pdf
+69c27214a05476a7f0ea2b5925e822626bb0268c BACK-END/JAVA/Test-Driven Development - Teste e Design no Mundo Real - Casa do Codigo.pdf
+4bd16125e8770a34b2a508851c93eb8560e6f5d3 BACK-END/JAVA/Vraptor - Desenvolvimento Agil para web com Java - Casa do Codigo.pdf
+57b7f88804cdbd07094c8cbcab620cf1a49722c2 BACK-END/JAVA/caelum-algoritmos-estruturas-dados-java-cs14.pdf
+548a16ae88c925c2d56501f2fc628b21a0d42c6d BACK-END/JAVA/java basico e orientação a objetos.pdf
+fe78ec0d4d52d78794873ba2d4a5a209e9155f45 BACK-END/JAVA/java interview questions_ Top 20 java interview programs and answers.pdf
+f9e4ffa6d2d923648d6dd9e9c8aee75809f12c36 BACK-END/JAVA/quarkus-fascicle-practising-v1.pdf
+0dc1d02b68dad0c0e64ba3ea317789bbd45d01b6 BACK-END/JAVA/quarkus-fascicle-understanding-v1.pdf
+24c27560ac8c8b4f3285eaecb9475a63a8a44e06 BACK-END/JS
+0b224dd512b139ef3e80e839a9815f9d4e99a947 BACK-END/JS/Aplicacoes web real time com Node-js - Casa do Codigo.pdf
+6462b6a7fa52aee6210ef427b22cf4c72ee0a1f3 BACK-END/JS/Aprendendo Node - Usando JavaScript no Servidor - 1ª Edição - Shelly Powers - 2019.pdf
+735ffc767e86536a9a21d5bc82957c5301b9a38c BACK-END/JS/Eloquent javascript.pdf
+2e23c20d6a3ffb3311b94089898345e1ce0dbba0 BACK-END/JS/JavaScript de Alto Desempenho (Nicholas C. Zakas) .pdf
+c106a9cfc075cb99f241fed624b82f49b3803112 BACK-END/JS/JavaScriptNotesForProfessionals.pdf
+3feb90fbc4d1aa29e849bc72d905226f835488f8 BACK-END/JS/Kenneth Lewenhagen, Anders Åkesson - Node.js in Open Source projects on Github.pdf
+d683153d338738e43ff0a97dc46bd74d57b5dedf BACK-END/JS/Mean Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node - Casa do Codigo.pdf
+8c3de4cc5ab249c0d73f501fe68a6144f0fdbd32 BACK-END/JS/Meteor - Criando aplicações web real-time com JavaScript - Casa do Codigo.pdf
+507195543d4656b083cb20d737904ced1d35f813 BACK-END/JS/Node.js - Aplicações web real-tome com Node.js.pdf
+05820bcfcd9b776f482e28975031294645ce1fb1 BACK-END/JS/NodeJSNotesForProfessionals.pdf
+48f108c5bab159a484eb649e61cef950c75f5988 BACK-END/JS/O Canivete suíço do desenvolvedor Node.pdf
+1bb19869bbc9a79d90797a50106d98e26feab38b BACK-END/JS/Programação Web com Node e Express - 1ª Edição - Ethan Brown - 2020.pdf
+530e2be924514a30a05bacb2874e9463f6c277b9 BACK-END/PHP
+238da415ae5b7482caf9b0e4d1de60ae869002ca BACK-END/PHP/Análise de vulnerabilidades em sistemas web com PHP.pdf
+b19433915133a43831655bd6c648560334f155b3 BACK-END/PHP/Core PHP Programming Using PHP to Build Dynamic Web Sites.pdf
+9ec8ea11a717f6e2c5179c6938dc4095d4b12f4e BACK-END/PHP/Desenvolvimento web com PHP e MySQL - Casa do Codigo.pdf
+517456cd7c62f5b06d26a0f229296b94d1214e8d BACK-END/PHP/Desenvolvimento web com PHP e MySQL.pdf
+96c80674eed33a29dba68069c543b5e1c5c66882 BACK-END/PHP/Laravel_ Up and Running_ A Framework for Building Modern PHP Apps.pdf
+257297b77cca0d8c99a3a5d5cda2a8137c524045 BACK-END/PHP/Learn PHP 7_ Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL.pdf
+db716f2f84547bd154662d53e35c86c2c29457a3 BACK-END/PHP/Livro de PHP.pdf
+203728897691d7dea1337321b69a49ddf0ca69cf BACK-END/PHP/PHP - PROGRAMANDO COM ORIENTAÇAO A OBJETOS.pdf
+88db7de348a99c692f542c26477e3e960e5a5a17 BACK-END/PHP/PHP e Laravel - Crie aplicações web como um verdadeiro artesão.pdf
+3e5238426d51ac3845613553781d049803f8c7f7 BACK-END/PHP/PHPNotesForProfessionals.pdf
+1f8cc24083092d7c782ccda0c91a7f7ccebaa637 BACK-END/PHP/PHP_ Learn PHP in 24 Hours or Less - A Beginner's Guide To Learning PHP Programming Now.pdf
+f774621f48099ab9080e66e00a31511479a43904 BACK-END/PHP/Practical PHP 7, MySQL 8, and MariaDB Website Databases_ A Simplified Approach to Developing Database-Driven Websites.pdf
+f855cd4d574496bb7f7799e18736e27d801042d2 BACK-END/PHP/Test-Driven Development - Teste e Design no Mundo Real com PHP.pdf
+bb047b91aa98b475d8d489006f8136eab9b1859d BACK-END/PHP/Test-Driven Development_ Teste e Design no Mundo Real com PHP.pdf
+089c120c4d5e3275d7d55b39b48d527e75a43d96 BACK-END/PHP/Zend Certified Engineer Descomplicando a Certificação PHP.pdf
+f0224043234d908f9df3a767f0d2e41f24397db2 BACK-END/PHP/php.pdf
+30e7edea2f5adfcc3597f6dddd15ec4b6a651ade BACK-END/PHP/phptherightway.pdf
+47b812b555de1b3b239fca561a20a4bd5c2948bd BACK-END/PYTHON
+ed9539326120d9d3f3718f7209764fc89e920470 BACK-END/PYTHON/Automatize tarefas maçantes com Python.pdf
+e80cbfcfb06c0029b5df2825f27679644ff640d4 BACK-END/PYTHON/Curso Intensivo de Python.pdf
+169e64c2965308e4a9b26cb8e775df00b06af721 BACK-END/PYTHON/Data Science do zero_ Primeiras - Joel Grus.pdf
+cd2d2a6efc10ae120608ece489e8f4201cb383ba BACK-END/PYTHON/Django - The Easy Way_ A step-by-step guide on building Django websites, 2nd Edition.pdf
+b4fe1c5c7bc8c26d40859cbcb9db785c9b00d118 BACK-END/PYTHON/Flask Web Development_ Developing Web Applications with Python.pdf
+26726e99f413d228b79ba9a3c431386535d6a59d BACK-END/PYTHON/Livro de Python (Automatize tarefas maçantes).pdf
+1a6b65a43a3b03d3fcd897ff8028e4a670512e6c BACK-END/PYTHON/Livro de Python (desenvolvedores).pdf
+0088a729e917821e5a6a0ed34abc756f4ba66604 BACK-END/PYTHON/Livro de Python.pdf
+43c4a548e5ddb9028d3c50acbb55679c0db5cece BACK-END/PYTHON/Pense em Python.pdf
+5780763206ea7803f569f6fa4d542cad03471f42 BACK-END/PYTHON/Python - Escreva seus primeiros programas - Casa do Codigo.pdf
+a9617e173e088618ced15a7e8da53225c52ed63d BACK-END/PYTHON/Python All-In-One for Dummies.pdf
+5d63235a30f09828a7737c0dcb91ed834042f7c5 BACK-END/PYTHON/Python para Todos.pdf
+e93dee20fb1a6de2a1e3922c68ed54dc6a4c4c77 BACK-END/PYTHON/PythonNotesForProfessionals.pdf
+340cfdcdebce00f1265fac476823f8e8e392c619 BACK-END/PYTHON/PythonTheCompleteManualDigital.pdf
+5364375d8c8ad6b0708984f49e94af103d6ddc3e BACK-END/PYTHON/Python_Programming.pdf
+048f38e3e8e9c1ca2ade8651f7e7d87d863c1996 BACK-END/PYTHON/Test-Driven Development with Python_ Obey the Testing Goat_ Using Django, Selenium, and JavaScript.pdf
+2f1c9212f8d6d7c1647bad8ffff8b40ec7d15df5 BACK-END/PYTHON/Think_Python.pdf
+0d2bceddee7590525219b78d55b5f2632774cb3c BACK-END/PYTHON/Tkinter GUI Application Development HOTSHOT.pdf
+043a353d6088fcd834288aa6f0e77df175014657 BACK-END/PYTHON/Web Scraping with Python_ Collecting More Data from the Modern Web.pdf
+77c257edde9f989eb6b58639abc5dc846a96e5a1 BACK-END/PYTHON/pythonoo.pdf
+c6d84ed040633b46fd31031fb08af2e612fd792d BACK-END/Programando em Go - Crie aplicações com a linguagem do Google - Casa do Codigo.pdf
+9be0a135fc4897ad569637ad8f3d57bf9a9bb24c BACK-END/Ruby - Aprenda a programar na linguagem mais divertida.pdf
+d8931bf244aede67ed0821133001ea7bb288a7f2 BACK-END/Ruby on Rails - coloque sua aplicacao web nos trilhos - Casa do Codigo.pdf
+50728866e84604129627276a1cc95fff54d0ac1e BACK-END/Testes Automatizados de Software Um Guia Pratico (Mauricio Aniche) (z-lib.org).pdf
+b08ab0aedc08651f4a24974c4af8b8a0ff0698cc BRANDING ANALYTICS
+d660a03e86ff269cc8ebcd4a9b440e6f90bf9aff BRANDING ANALYTICS/BA - 01 - Desconstrução e humanização das Marcas_RevFinal.pdf
+95eee6b70020a751a21528a1c4fabb059fd9938f BRANDING ANALYTICS/BA - 02 - Desenvolvimento e gestão de marcas_RevFinal.pdf
+1ce8fad66aee969c295b8a021026919b25706a7f BRANDING ANALYTICS/BA - 03 - Comunicação integrada de Marketing_RevFinal.pdf
+546058bf224cbc206f9df4cd8bb6347f34fee4eb BRANDING ANALYTICS/BA - 04 - Design Estratégico_RevFinal.pdf
+7a0ee44ed92b4734aa6eb94f89e66b1bf4975587 BRANDING ANALYTICS/BA - 05 - Identidade Visual_RevFinal.pdf
+73c0cfe487e4f06aaaa8ddf378349027542a31fe BRANDING ANALYTICS/BA - 06 - Estratégia de arquitetura de Marca_RevFinal.pdf
+e1bf6c962fd87927bcc5b533b509c9fb809323ac BRANDING ANALYTICS/BA - 07 - Digital Branding_RevFinal.pdf
+ce670327eecb797d1453258f71cee697b4cffa7d BRANDING ANALYTICS/BA - 08 - Endomarketing_RevFinal.pdf
+92d2e0af2fb414183b57a40382e8204d81783c89 BRANDING ANALYTICS/BA - 09 - Marketing Experiencial e Sensorial_RevFinal.pdf
+c9cc1d71ee78e23548b8ab1c7c8bf8392bcc7f6f BRANDING ANALYTICS/BA - 10 - Aspectos legais da gestão de marcas_RevFinal.pdf
+fed7aa71f7f2fc41ab23ddf12be1f4a802fd7457 BRANDING ANALYTICS/BA - 11 - Avaliação de Marcas e Brand Driven Innovation_RevFinal.pdf
+698cf9da332473dd00be7852215e051071a759e0 Banco de dados
+a80fd4230101838af4aafd79a05bbd77ec71b807 Banco de dados/Aprendendo a Desenvolver Aplicações Web - Desenvolva Rapidamente com as Tecnologias JavaScript Mais Modernas - Semmy Purewal - O'Reilly - Novatec - 2014.pdf
+cf9cac4b705ad9369f46ca3a75868f0c19ffa5ca Banco de dados/Introducao a Sistemas de Bancos de Dados - C. J. Date.pdf
+c8416eae7336d30c4c45caba56603e73499568db Banco de dados/Navathe - Sistemas de Banco de Dados - 4a.pdf
+0744dfe9c71c19590097be1fb24d539429d8133f Banco de dados/Navathe - Sistemas de Banco de Dados - 6a.pdf
+70ec3c095323cd18202766ad82cf980475f951e1 Banco de dados/SQL Uma abordagem para bancos de dados Oracle.pdf
+052f43b5737f3d9852e43de5d8c795ec33f21f74 Banco de dados/Sistemas de Banco de Dados (Ramez Elmasri, Shamkant B. Navathe).pdf
+4e84d9de6d23305160f70d21d26e86b357e3c920 Banco de dados/casa_do_codigo_MySQL - Comece com o principal banco de dados open source do mercado.pdf
+a03dd30142c01328547b9de7e0aad09bd85b907e Banco de dados/casa_do_codigo_PL-SQL - Domine a linguagem do banco de dados Oracle.pdf
+774a0ef51dd9b9f0c05aa795735a14600e9aac5a Big Data E Analise de dados
+a5bd62e314a405137d280d0725a7a6d8b78955d4 Big Data E Analise de dados/Big Data  Analytics - Capítulo 1 - BigData o início - Anderson Paulucci_e_Leandro Rubim.pdf
+a02c093d857236c9686c106ce3ea333ae732d988 Big Data E Analise de dados/Big Data  Analytics - Capítulo 2 - Inovando com Big Data - Anderson Paulucci_e_Leandro Rubim.pdf
+f3ee758655f93646441658986418a15ce82417d8 Big Data E Analise de dados/Big Data  Analytics - Capítulo 3 - Big Data e Analytics - Anderson Paulucci_e_Leandro Rubim_RevFinal_20190415_1051.pdf
+59ff2b68100143f21666f83d176d544b140fd896 Big Data E Analise de dados/Big Data  Analytics - Capítulo 4 - Data, Text and Opinion Mining_RevFinal.19.pdf
+a3eea1dde3936e878ea4e13e6e3896d44eb17c7e Big Data E Analise de dados/Big Data  Analytics - Capítulo 5 - Ecossistema e profissões em Big Data_RevFinal.pdf
+6b37eef05b9ff763f18f24de2743791d9b158af9 Big Data E Analise de dados/bigdata_governanca_dados.pdf
+91b6be7b619d482cae642ee4166b9951116dca15 Big data
+4b5c935b19325d748e5c84baa474b247d3018ef5 Big data/Big Data - Capítulo 1 - Introdução ao Big Data_RevFinal.pdf
+51db412f3afa35b088a6de7d05a3e5ce1ebe0284 Big data/Big Data - Capítulo 2 - Modelos Relacionais_RevFinal.pdf
+efab5ce43630d6ba32e665d747e77ef38e654a6a Big data/Big Data - Capítulo 3 - Modelos Dimensionais_RevFinal.pdf
+bdbb49093b3c09d536b90265e3758bcb3f2fd50d Big data/Big Data - Capítulo 4 - NoSQ_RevFinal.pdf
+87685b1ce6471854fa1efac3e1fe10bcd5e04200 Big data/Big Data - Capítulo 5 - NoSQL com MongoDB_RevFinal.pdf
+7e7971bfa13d996d07626ec118176520138af56b Big data/Big Data - Capítulo 6 - Projeto Big Data_RevFinal.pdf
+2433b1116499d616409f6571fd4f526816764aa3 Biohacking, Deep Web e Criptografia
+08a3629ffa27a0dfa2cecab42c740bb00328c447 Biohacking, Deep Web e Criptografia/FIAP ON - DC - BIO - Cap.1 - Biohacking - definicao, relevancia, aplicabilidade_RevFinal_20201116.pdf
+2daffab411e8ccda5cf44c38d867428926322ae6 Biohacking, Deep Web e Criptografia/FIAP ON - DC - BIO - Cap.2 - Biohacking wearables_RevFinal.pdf
+fa028624cf12375b0fe4210c648e23ca87729a1d Biohacking, Deep Web e Criptografia/FIAP ON - DC - BIO - Cap.3 - Deep Web_definicao e caracterizacao_RevFinal_20201116 (1).pdf
+3d831591d84bb73832e3a1d4b2845851b0126d37 Biohacking, Deep Web e Criptografia/FIAP ON - DC - BIO - Cap.4 - Deep Web_aplicacao pratica_RevFinal (1).pdf
+4a5dd3311cdd8a89fd20dede7c5a0173b160bdb8 Biohacking, Deep Web e Criptografia/FIAP ON - DC - BIO - Cap.5 - Criptografia e VPNs_RevFinal.pdf
+5b46a5211407a961a642779f2ea33349036fa183 Biohacking, Deep Web e Criptografia/FIAP ON - DC - BIO - Cap.6 - Esteganografia_RevFinal.pdf
+c41b054524d322e6a9b543b05694ecb7a3ea9557 Biohacking, Deep Web e Criptografia/FIAP ON - DC - BIO - Cap.7 - Hash_RevFinal.pdf
+2a0fc54f252749454803b73364c06320526f8934 Biohacking, Deep Web e Criptografia/FIAP ON - DC - BIO - Cap.8 - Proxy SSL_TLS_RevFinal.pdf
+e66be86a7b23cb4a6d17598a37f2ad99fa3cddc7 Blockchain Advances
+602352ec363fef886b5ffebc9f60ca09c85b5aff Blockchain Advances/Cap 1 - Blockchain, a introdução_ReFinal.pdf
+5f96c03e76dd421b712e5ac73f942d02a74a0c6f Blockchain Advances/Cap 2 - Funcionamento do blockchain mecanismo, consenso e  incentivos_RevFinal.pdf
+4a595501ed3cfcd476883ac2aa89e04d4b67bb14 Blockchain Advances/Cap 3 - Um pouco sobre criptomoedas_RevFinal.pdf
+7329205a9c93339054aedb73dfba387fdd23d18e Blockchain Advances/Cap 4 - Blockchain e sua aplicabilidade_RevFinal.pdf
+c057148f3c3a2eb684c5c66f9bc0d69325e96974 Blockchain
+3a0b1ecefef6c20aa3c56d9a814e7db496299fb0 Blockchain/Cap 01_Blockchain_RevFinal.pdf
+caf705e96aabc1a7009aa7d9f4d2d9228f238098 Blockchain/Cap 02 - Aplicações blockchain_RevFinal.pdf
+e96a61ffdbd2d8bbfba37e7f727dac2911c61874 Blockchain/Cap 03_Plataformas Enterprise Blockchain_RevFinal.pdf
+f79d44d35e5c6c0b8f8e14bbd65f0d06836f1b3d Blockchain/Cap 04_Blockchain em Trade Finance_RevFinal.pdf
+92aff17428c0ee7d2f20f07c59977f0f6f775b0b Blockchain/Cap 05_ Aplicativos blockchain RevFinal.pdf
+055a55dfddf7610433068954305c3c9e643fd29c Blockchain/Cap 06_Projeto Blockchain RevFinal.pdf
+b346d6d172a10b5db5410c44e904e7fecc64d71c CRACKING the · CODING INTERVIEW.pdf
+6a82f5175a3dbb99efbb3ba466d16902f1805707 ChatBot
+a5d98342e30f979fe8dc3027c36bc96a711948c2 ChatBot/01 - Introducao a Inteligencia Artificial e Computacao Cognitiva_RevFinal.pdf
+c48baa98e104e8e953462b5c43ffde1caa60c6c3 ChatBot/03 - Plataformas para Chatbots_RevFinal.pdf
+87dc2617bb032f87fcff4bd7b0be7c2655ccd07b ChatBot/04 - Construcao de chatbot com IBM watsonx Assistant_RevFinal.pdf
+8f60b86ff8f6013071d02ed1738a18b0676d086c ChatBot/05 - Análise de Métricas, UX Writing e VUI.docx_RevFinal.pdf
+997eab710df88a1da88f3ea45493d7b93c699e98 ChatBot/06 - Orquestração com Node-RED (Prático).docx_RevFinal (1).pdf
+4c7873cd374b698ae343a7aff9cb275654826ce8 ChatBot/07 - Integração com Facebook MessengerDiscord (Prático).docx_RevFinal.pdf
+8baafd00f28412e16dd75af98c39ea09cc1303d0 ChatBot/08 - IA Gennerativa e Large-Language Models (LLMs).docx_RevFinal.pdf
+220943c12cced55fbc0521ecbfd558156f25d0e5 Conteúdo Programático - Inteligência Artificial -  562869.pdf
+d7d6d60cfc9732290dcd4ed8332df0c6fae54a31 Código limpo.pdf
+36243977f2fcd5c132c5079531225a12405dcc43 Data Driven
+72d04dd2cda03a3f99508310125d22f5b8d58342 Data Driven/DD-01 - Introdução data driven e processo de tomada de decisão_Revfinal.pdf
+4c8cc9cd1d3deede8bbd384b02a53e339d6a3958 Data Driven/DD-02 - Pesquisa_RevFinal.pdf
+25505278982a5d2ce601c6be842c3154f0a5c5b2 Data Driven/DD-03 - Dados qualitativos e quantitativos_Revfinal.pdf
+a85edef4f7f39bdd44f773ce131fcfa11a77f6ff Data Driven/DD-04 - Estatística descritiva e indutiva e Representação gráfica de séries estatísticas_RevFinal.pdf
+5551e4191b7ff01f7cb0b9d48442998f3ef94668 Data Driven/DD-05 - Métricas e Sistemas de Avaliação_Revfinal.pdf
+e8fd283c2ba95a57ff05b06ee81cf1d0eda00479 Data Driven/DD-06 - Monitoramento de Campanha_RevFinal.pdf
+2faa04b09117346491d41671da019ddbdb641670 Data Driven/DD-07 - Ferramentas para Tomada de Decisoes_RevFinal.pdf
+c75c36e50ecc0ed77fa04f5ee86727ddeafcdabe Data Driven/DD-08 - AI Aplicada ao Processo de Tomada de Decisao_RevFinal.pdf
+48403f373d4dfddbca0ee718fd335e5b3d482ea4 Data Driven/DD-09 - Algoritmos de Negocios_RevFinal.pdf
+10e419ab2ee002c57be1ebce89dc0a2930b82ede Desenvolvendo aplicativo para android
+a7a28b2b128b8407e70bb693bc104816be8f74b3 Desenvolvendo aplicativo para android/01 - AGAD - Introducao ao Kotlin_RevFinal.pdf
+7be5abf5be3130a69465a881179e477e1a8b28d5 Desenvolvendo aplicativo para android/02 - AGAD - A casa do Android_RevFinal.pdf
+85370a1dce8b3259551e5004ef1ea8b795fc7fed Desenvolvendo aplicativo para android/03 - AGAD - Introducao ao Jetpack Compose_RevFinal.pdf
+13d958e71762d6071326e540887cbb7be96842ee Desenvolvendo aplicativo para android/04 - AGAD - Layouts e componentes basicos no Jetpack_RevFinal.pdf
+8b7e6d00494eeb16fed8d535606fa6ca130fec6e Desenvolvendo aplicativo para android/05 - AGAD - Componentes basicos com Jetpack Composes_RevFinal.pdf
+cc586c2a2bd51c109a9df3cf9e882b5b86765bb7 Desenvolvendo aplicativo para android/06 - AGAD - Uso de cards e Imagens_RevFinal.pdf
+e6cc7506e01ccf9beed5bdc9988d807481690f7c Desenvolvendo aplicativo para android/07 - AGAD - Navegacao e Fluxo entre Telas_RevFinal.pdf
+f0ff6d4c814f6c231212252d1b6a4a70b85c2be8 Desenvolvendo aplicativo para android/08 - AGAD - Gestao de estado no Jetpack Compose_RevFinal.pdf
+055201f66396579ba755ee38e6385ddc3171f889 Desenvolvendo aplicativo para android/10 - AGAD - Persistencia de dados locais_RevFinal (1).pdf
+1c41db21759b00b9f594986d7531852802ef21a5 Desenvolvendo aplicativo para android/11 - AGAD - Listas e Consumo de API externa_RevFinal.pdf
+91a140a41f16c6eabced772d3b9ec77901520858 Desenvolvendo aplicativo para android/12 - AGAD - Animacao e Multimidia_RevFinal.pdf
+f97de9e263470024fa26d0b9d551d928aceb162d Desgner Trinking
+91fe6f96a09cb2012849e4b051337c4d57234865 Desgner Trinking/MBA GTI - Design Thinking - Cap 1 -Mudando o modo de Pensar_RevFinal_202000515_1345.pdf
+3da7ba93ae71e36db8c34a755499b624bf20687f Desgner Trinking/MBA GTI - Design Thinking - Cap 2 - Metodos e Ferramentas_RevFinal.pdf
+76dfbbe6f977d99b9e580f2ea5552daea1b75cb9 Desgner Trinking/MBA GTI - Design Thinking - Cap 3 - Aplicacao do Design Thinking_RevFinal.pdf
+d2f0de0d4bca1dca5477378d79e366c0496eab95 Desgner Trinking/MBA GTI - Design Thinking - Cap 4 - Design Sprint_RevFinal.pdf
+6dd04f87edf1b6243eb04632c18026e1008075d1 Desgner Trinking/MBA GTI - Design Thinking - Cap 5 - Design de Servicos_RevFinal_202000515_1345.pdf
+90cb3b38521a17a67c0efdb0ba4937ee49a032b6 Designer Grafico
+742f24245524c9b735b4062417ea04c83a4ea1e4 Designer Grafico/Design Grafico - 01 - O que e Design_RevFinal.pdf
+070005190af7b31f1cfaf009cf77ce4d60a30476 Designer Grafico/Design Grafico - 02 - O incrivel mundo das cores_RevFinal.pdf
+2fb4c627df6185b9f1ebb4faf143cc2550ea4d5e Designer Grafico/Design Grafico - 03 - Tipografia_RevFinal.pdf
+585c4fbef089fce7ef799faf59441ecf30cd1dba Designer Grafico/Design Grafico - 04 - Logotipia_RevFinal.pdf
+b8578186e2cb671f5be710592318d214a74ea6bf Designer Grafico/Design Grafico - 05 - Imagens Vetoriais_RevFinal.pdf
+4d84d923568ffd8fa19039b75e606456c75569a2 Designer Grafico/Design Grafico - 06 - Logotipia na prática_RevFinal.pdf
+10b14ac059120aa43425e3e5bc7ddb54ed3c4262 Designer Grafico/Design Grafico - 07 - Projeto_RevFinal.pdf
+b1416d889f3f7637c634ffe756aa8a2174f6399f Designer Grafico/Design Grafico - 08 - Pixels e Resolução_RevFinal.pdf
+67d123a8cf953de7ed946438412d305d875bb89d Designer Grafico/Design Grafico - 09 - Composição da imagem_RevFinal.pdf
+732ae98ce5aaa1b8691cb3bdb03e7d74f8893d71 Designer Grafico/Design Grafico -10 - Composicao de imagem no Photoshop_RevFinal.pdf
+bb259abdeafac65ed33bd14e4247b2fe890818c6 Designer Grafico/Design Grafico -11 - Editoração Gráfica no InDesign_RevFinal.pdf
+95bb298e96969e0b6f509271836a6c63d48f0004 Designer Grafico/Design Grafico -12 - Criando um projeto gráfico completo_RevFinal.pdf
+f0ab61b2e354565d2b94723306a6c51dd43aaa13 DevOps & Agile Culture
+b85283ce2b6a63b388110a8791ef6730d9389405 DevOps & Agile Culture/1_FIAP ON - DevOps_RevFinal_20200611_1302.pdf
+0db45789194e94c76ee267bea161d7ea9b382b86 DevOps & Agile Culture/2_FIAP ON - Metodologia-Desenv-Software_RevFinal.pdf
+3a8edded6ff83ef13eb5d9dc9ff1127f7ffb48e2 DevOps & Agile Culture/3_FIAP ON - Dominios-Agilidade-Metricas_RevFinal_20200608_0924.pdf
+550f1940968223f60c036799e26b582c694563e6 DevOps & Agile Culture/4_FIAP ON - Desvendando o UML_Rev2_20200608_0924.pdf
+ac64a9bde826ffd2076292a13a7d278f7b2dd68c DevOps & Agile Culture/5_FIAP ON - Diagramas de Caso de Uso_RevFinal_20200608_0924.pdf
+73411afe5ab8bd8efa974044f73112915c0261f8 Django
+dcead9238c53271457d74bf3f40d9f261824838b Django/FIAP Digital - Cap 1 - Django 101_RevFinal.pdf
+480f79564f88673805f6cc5ddad0b8b234c9060a Django/FIAP Digital - Cap 2 - Modelos e Integrações_RevFinal.pdf
+6260f30e81e6a680a592d83e4cc36c205bca1771 Django/FIAP Digital - Cap 3 - Rotas e Views_RevFinal.pdf
+39f1797ca6934f1fd8d357a5656a1012d43d719c Django/FIAP Digital - Cap 4 - Imagens, Filtros e Buscas_RevFinal.pdf
+46b2bc96fd498ca5169027bbc06acd62a7015d9f Django/FIAP Digital - Cap 5 - Formulários com Django_RevFinal.pdf
+ceaf8de907476892c105b1e4a07ca559ad6f670b Estratégias e Modelos de Negócios
+9d892c3f6d264ab34cc6de783f64d617820ab2d0 Estratégias e Modelos de Negócios/Cap 10_meios_de_pagamento_RevFinal.pdf
+8eea4ae856d1389d35c9d5f14e3b339b85519fcd Estratégias e Modelos de Negócios/Cap 1_Introducao_ao_modelo_de_negocio_RevFinal.pdf
+9038fbe6273992ff5df563977e8546686f5bd364 Estratégias e Modelos de Negócios/Cap 2_Organizações do terceiro milênio_RevFinal_20200427_1719.pdf
+9dfe0a44504d247e55ea22d69126ef9431e8e2d3 Estratégias e Modelos de Negócios/Cap 3_Negócios competitivos_RevFinal.pdf
+f1757aa7296d510dbc293e9cce187b6896a3b252 Estratégias e Modelos de Negócios/Cap 4_Ética e responsabilidade na negociações_RevFinal_20200427_1719.pdf
+b67bca3b7dca3645be372a8f7e0297995da452b4 Estratégias e Modelos de Negócios/Cap 5_Cultura_Organizacional_RevFinal_20200427_1719.pdf
+5de18d08ebb1fd1f63e8c47054db93e5e7d01254 Estratégias e Modelos de Negócios/Cap 6_Desenvolvimento_do_Negócio_RevFinal_20200427_1719.pdf
+b2b1d640a0bd5a34192278c712ec6bf5dca54cda Estratégias e Modelos de Negócios/Cap 7_Pesquisa_de_mercado_e_concorrentes_RevFinal.pdf
+edb3cb9fe65e9546515ff13476fd9611631ef1a9 Estratégias e Modelos de Negócios/Cap 8_Posicionamento de marca_RevFinal_20200427_1719.pdf
+4969c79df6a7691390216a15a2aafe7beaf9c5f6 Estratégias e Modelos de Negócios/Cap 9_E-commerce_RevFinal_20200427_1719.pdf
+d8b53927f62488a91cb6598146a9100360324d0a Estratégias e Modelos de Negócios/Cap11_netnografia_e_consumo_RevFinal_20200427_1719.pdf
+3cbec61187bfb170b9e8fd032fe9ce4646927e2e Estruturas de Computadores
+ffca394e17d4812e22674cc892dc1115d85c2cca Estruturas de Computadores/Cap1_Histórico e evolução_RevFinal.pdf
+f5b5e4f6bc2bf4be51b0dc171b1abcf3d00e0002 Estruturas de Computadores/Cap2_Memórias e barramentos_RevFinal.pdf
+198ab7ef29eaca02657a73853f78848e2119c867 Estruturas de Computadores/Cap3_Dispositivos de entrada e saída_RevFinal.pdf
+2dfcdaa9969f32a49c806b73cb1830513d15207f Estruturas de Computadores/Cap4_Bases numéricas e mudanças de bases_RevFinal.pdf
+a8e7fc83a3e748470e50b708a90935af22d92e33 Estruturas de Computadores/Cap5_Eletricidade básica_RevFinal.pdf
+8284a381c3fbb339210c5abcfa27ed64ac20d647 Experiencias de Negocios
+37a36dcea3fbf8628f573b987ee474ef199f91d9 Experiencias de Negocios/Customer Experience Management - Cap1 - Estratégias de CX_RevFinal.pdf
+04e05c0ea5b5566341889646600c86f8db49861d Experiencias de Negocios/Customer Experience Management - Cap2 - Jornada do Cliente e Processo de decisão_RevFinal.pdf
+c324773b525fec8464e4427bb0312805f7731892 Experiencias de Negocios/Customer Experience Management - Cap3 - Processo de decisão e neuromarketing_RevFinal.pdf
+d0ae459fbe5cbeb58fa2042beb421d3ba74e22b1 Experiencias de Negocios/Customer Experience Management - Cap4 - CRM e Customer_RevFinal.pdf
+75d4f593bf78619cc23ba0a45553931b359538bb Experiencias de Negocios/Customer Experience Management - Cap5 - Métricas de CX_RevFinal.pdf
+b5a33e9f5c9896fd46e067b94e002d84ea306121 FERRAMENTAS
+7ed165c0358deeec4423b47d2e29df3be92a22bf FERRAMENTAS/Apostila de Linux Ubuntu.pdf
+cdaff4389d27901b1671b1e53d3104a5fbddfd2f FERRAMENTAS/Aurélio Marinho Jargas - Shell Script Profissional.pdf
+80d4957307f82e73dad8bdeb4f940b00925ee627 FERRAMENTAS/Começando com o Linux - Comandos, serviços e administração - Casa do Codigo.pdf
+c2acba34dc9e7e4254d54b806f5e5f705fef41e5 FERRAMENTAS/Containers com Docker do Desenvolvimento a Producao.pdf
+0438dee31d1a93a84ed1d78f2f1fc78262937ad3 FERRAMENTAS/Controlando versões com Git e GitHub - Casa do Codigo.pdf
+1323d3cefa3adef8eadb3700ac1b3a243645c560 FERRAMENTAS/Introdução ao JSON - 1ª Edição - Lindsay Bassett - 2019.pdf
+900c3ccade181ef6b64962fa1f969ef6e55dd5c7 FERRAMENTAS/Jenkins - Automatize tudo sem complicações (Casa do Codigo) (z-lib.org).pdf
+9a7a9630291892e2be7ccf5b3ddc161eace1c5d7 FERRAMENTAS/Kubernetes Microservices with Docker by Deepak Vohra (z-lib.org).pdf
+350a049b3b3c2cdf85e8b7af9cde2c1421d97943 FERRAMENTAS/LEAN ENTERPRISE - Como empresas de alta performance inovam em escala.pdf
+816fd826f50063aae21bda56cd20011e25c008f3 FERRAMENTAS/Linux-a-biblia-pt-br.pdf
+fff094fcc9d7035665727ad0d9ca7ded2a643956 FERRAMENTAS/LinuxNotesForProfessionals.pdf
+a6aa6c153648c8fba664751432e1e37b19af92c1 FERRAMENTAS/Livro de A Computacao pessoal e o Sistema operacional Linux.pdf
+3351c0b31103f06adb64fefb9ad75071482501c4 FERRAMENTAS/Livro de Arquitetura e organização de computadores.pdf
+48ff5079567d8224895eca39d7bbce3b3bfbdb7f FERRAMENTAS/Livro de Big Data - Tecnicas extracao de valor dos dados.pdf
+394fad80bb68f1c798205d245d23987e55d9bce4 FERRAMENTAS/Livro de Compilladores.pdf
+37b7c073944035ecb99dd8b335ff068a82122979 FERRAMENTAS/Livro de Comunicação de Dados e Redes de Computadores.pdf
+0f1c2e1564c145df9d27a5c24ead09a7729654a6 FERRAMENTAS/Livro de Entendendo e Dominando o Linux.pdf
+4ee8c9c062825858af864e273db0f7d43f7c149c FERRAMENTAS/Livro de Introdução ao ambiente windows.pdf
+745972594cf9eca0246440416878ce109edeca36 FERRAMENTAS/Livro de Montagem e Manutenção de Computadores.pdf
+f1cd23adb61331a2dc54a11148d982266d2fc043 FERRAMENTAS/Livro de MySQL.pdf
+191c850dc7bd9e5c6bbe5809aca99f2926ae7be5 FERRAMENTAS/Livro de Oracle Database 11g Sql.pdf
+35f3ce08ac9aa185ddd7ee142f61279773044beb FERRAMENTAS/MySQL Comece com o principal banco de dados open source do mercado - Casa do Codigo.pdf
+cd4bbb7f25f07510cae559a03d952ecfb2fd5bc3 FERRAMENTAS/NoSQL - Como armazenar os dados de uma aplicação moderna.pdf
+d84be29458e234fa84a1b5acdf14629190f8478e FERRAMENTAS/PostgreSQL - Banco de dados para aplicações web modernas.pdf
+66a42ed6f08265faa96e3b4d6813be7e1e5ceb8e FERRAMENTAS/PowerShellNotesForProfessionals.pdf
+5bc5f7e39daa57a523a82d516e385b051966f232 FRONT-END
+31c06e14648ea056d59756bc46047388b97da064 FRONT-END/Desenvolvimento Web com HTML, CSS e JavaScript.pdf
+58d8a3ee48cdcfa4c01785ba3e9fe5b975e2817b FRONT-END/Guia Front-End.pdf
+f2b456835a6f59972c16a8420ae8ce504d20923a FRONT-END/JAVASCRIPT
+d85e579b2004dfe7c3879db6a06d280ba9699ac8 FRONT-END/JAVASCRIPT/Coletanea Front-End - Uma Antologia da Comunidade Front End Brasileira - Casa do Codigo.pdf
+229c9c7bd8b6a7721a4a329c195874ca991bf23e FRONT-END/JAVASCRIPT/Desenvolva jogos com HTML5 Canvas e JavaScript - Casa do Codigo.pdf
+dfd9e7a53ae2847125f2786f7d509029a9ec0ad0 FRONT-END/JAVASCRIPT/Desenvolvimento Web com Javascript.pdf
+2f0e8849dcca70295a4421f70212fe659a7c3491 FRONT-END/JAVASCRIPT/Diego Martins de Pinho - Javascript - ECMAScript 6 Entre de cabeça no futuro do JavaScript.pdf
+84546a3846d5d0d9c30cd7131b400142f55d98e7 FRONT-END/JAVASCRIPT/Dominando JavaScript Com Jquery - Casa do Codigo.pdf
+db808a3271e55170069fc47d650ba14964610f50 FRONT-END/JAVASCRIPT/JavaScript O Guia Definitivo_v2.pdf
+0bf59e70a51624e1c85169d8d9b65397b47370fc FRONT-END/JAVASCRIPT/JavaScript and JQuery_ Interactive Front-End Web Development.pdf
+c7c75036acac81b46aa9da72c800f9b2fc63355b FRONT-END/JAVASCRIPT/JavaScript_ JavaScript For Beginners - Learn JavaScript Programming with ease in HALF THE TIME - Everything about the Language, Coding, Programming and Web Pages You need to know.pdf
+58920be52225662efce34d07da7f26aa0ba36b2f FRONT-END/JAVASCRIPT/Javascript - Cangaceiro JavaScript - Uma Aventura no Sertão da Programacao.pdf
+40f3a90aaa0e610ffde3b0f2c2895d9007667750 FRONT-END/JAVASCRIPT/Logica de programacao - Crie seus primeiros programas usando javascript e html - Casa do Codigo.pdf
+7cfd2883a688a1b0a4b026fb669c96cfb98523e9 FRONT-END/Learning
+f6ff096ae6b822b4c9ad3d4d86565e76c23a10b6 FRONT-END/Learning/Learning PHP, MySQL & JavaScript_ With jQuery, CSS & HTML5.pdf
+d397a4cc8da4e0ee59eefdf687bdd9a5b260140c FRONT-END/Learning/Learning PHP, MySQL, JavaScript, CSS & HTML5_ A Step-by-Step Guide to Creating Dynamic Websites.pdf
+1717ef889d111730fec7c465515d5acd8b7d4d27 FRONT-END/Learning/Learning Web Design _ A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics.pdf
+bc6355858a7f350f169c9e0743c87ffaca42effa FRONT-END/Sass - Aprendendo pré-processadores CSS.pdf
+515289e58fd4d51ed57fa3669bd3a701d66245ab FRONT-END/apostila-html-css-javascript.pdf
+032a8a7398682805718b2ea5420e63fd31bea2ef FRONT-END/ebook-gratuito-html-premium.pdf
+706c66c2e9c44d1bdb2bc6d5c5a183b73e1961c2 FRONT-END/php-mysql-javascript-html5-all-in-one-for-dummies.pdf
+6bef9d2c34fac622b0bed78498133b3e9fcbc8c1 Fisica
+5a8ebbf3fdba8528aa58480aec84767a4bb3fd01 Fisica/84178116-Vol-1-Landau-Lifshitz-Mechanics-3Rd-Edition-197P.pdf
+159792b97cd59647f172d1ef87d77a46eaf08854 Fisica/A Camada de Rede.pdf
+4b904a02440b1bd1ae273e754895e012e241cdf4 Fisica/A. Bialko - Nuestro Planeta la Tierra (Física al Alcance de Todos).pdf
+86d63d0257639a1dce398d55e094c1bbcc5de32e Fisica/A. Borovói - Como se registran las partículas (Física al Alcance de Todos).pdf
+a1ddf8673aaee03f4ce9702399d50622896ad356 Fisica/A. Efros - Fisica y geometria del desorden (Física al Alcance de Todos).pdf
+bba030f02a390e2f9a9a784f926ef1c958d839b4 Fisica/B. Kádomtsev, V. Rydnik - Ondas en nuestro alrededor (Física al Alcance de Todos).pdf
+71ab48b9f5f9110889bdc2a8ba8270bce9309800 Fisica/Curso De Física Teórica Vol 2 teoría clásica de campos.pdf
+266565cfe2e9737abe9ae4162fc79202a597dd2f Fisica/Curso de Física Básica - Vol. 1 - Mecânica - Moysés Nussenzveig.pdf
+880da015131824ada7d6a826f8261f0c66a958f7 Fisica/Curso de Física Básica Fluidos, Oscilações e Ondas, Calor (Volume 2) by Herch Moysés Nussenzveig.pdf
+99d5adf59036b94705e7883aac89bbb9f6ff72de Fisica/Curso-de-fisica-teorica-Vol-1-Mecanica.pdf
+4c2a3030b2ede0242dc1a4171fadf11e5d6ce7d3 Fisica/Curso_de_Fisica_Basica_H_Moyses_Nussenzv (1).pdf
+3488e2e0afaa4ec5fd06a732386a6311955382e4 Fisica/D. ter Haar - Collected Papers of L. D. Landau.pdf
+04677ab7556c111851942dd1979689e01e5b09b2 Fisica/Diálogos sobre Física Atómica (Werner Heisenberg).pdf
+937bd529afe1efbc7a171044d1258c46a9dad05b Fisica/F. Zavelski - Tiempo y su medición (Física al Alcance de Todos).pdf
+e3033b06a1abd3fc2e6f21ee3eaba4469dfe0f94 Fisica/FT01 MECANICA Vol 1 Landau Lifshitz.pdf
+7f62a5b8dc68eeac95a8850555cfc8982fc34f73 Fisica/FT02 TEORIA CLASICA DE CAMPOS Vol 2 Landau Lifshitz.pdf
+e4c0290a1a053837fa8c0067fd43e5ff89193d2d Fisica/FT03 MECANICA CUANTICA Vol 3 Landau Lifshitz.pdf
+feb077a900ea62eeb5cacb90734432adcb77e709 Fisica/FT04 TEORIA CUANTICA RELATIVISTA I Vol 4 Berestetskii Lifshitz.pdf
+8242e7b98a6794f774fbf4306b5ce6f41acc10fd Fisica/FT04 TEORIA CUANTICA RELATIVISTA II Vol 4 Pitaevskii Lifshitz.pdf
+c687fafb3957f34ac1638e7f8f44315de433aed5 Fisica/Fisica Conceptos y Aplicaciones-Tippens-7ma.pdf
+8482b8230513b4238a1ce19e4ddd79a0fc512a4f Fisica/Fisica Teorica Volumen 5 - Física Estadistica  (Landau).pdf
+f12ee684c724614b12a4ab199da7f0ce74721166 Fisica/Fisica Teorica Volumen 9.2  - Fisica Estadistica (Landau).pdf
+90b92e3736ca7820d13ab6c4abd09c3c5e5490bf Fisica/Fisica_General_-_Fisica_Universitaria_Vol_2__ed_12Sears-Zemansky.pdf
+a5c662e8c438c027d38d4165887998a2dd270cc6 Fisica/Física General, Volumen I - José María de Juana-LIBROSVIRTUAL.pdf
+84fc968b9f14d8d41bf57ee261d2b5ab9951fc44 Fisica/Física I; Conceptos fundamentales (1).pdf
+35bd413d7614b45ebc97f239554512286d589e51 Fisica/Física Quântica - Eisberg e Resnick.pdf
+c04a7e4746b1c86d9da7292208ffb1b552a78ca4 Fisica/G. Kopylov - Conozcamos la cinematica (Física al Alcance de Todos).pdf
+ab4cab22c0a5ea1dc9cb45603b63f20715cf69a0 Fisica/I. Nóvikov - Como explotó el universo (Ciencia Popular) (1).pdf
+3de8ad16b114349d46a030e76e8d026c48332644 Fisica/K. Bogdanov - El Físico Visita Al Biólogo (Física al Alcance de Todos).pdf
+b1972b6c4a083da4852742e54823659b0da87e60 Fisica/L. Tarasóv, A. Tarasóva - Charlas sobre la refraccion de la luz (Física al Alcance de Todos).pdf
+b5ad05b5f09906c01cd789cc405856564fe8fbc0 Fisica/Landau.pdf
+d4d9ee1e7dcaf96c8ead6517e7a8e46a97a3ad13 Fisica/M. Kagánov, V. Tsukérnik - La naturaleza del magnetismo (Física al Alcance de Todos).pdf
+049748b4fa6a4bc799ed1a7f6d2b886c33f0648d Fisica/S. Pikin, L. Blinov - Cristales Líquidos (Física al Alcance de Todos).pdf
+744c8a35f7a98b46f726dde7f0dc7a8a064b8575 Fisica/Sivuchin - Fisica Atomica - (Corso di Fisica Generale V Parte Prima) - Mir - Estere(1989).pdf
+d6effd5af834ebe985b920c95296c87f7f057689 Fisica/Sivuchin - Fisica Nucleare - (Corso di Fisica Generale V Parte Seconda ) - Mir - Estere - (1993).pdf
+b22ef1d0f423418ab7fca3df738294e55cd4ab4f Fisica/V. Dubrovski,  Ya Smorodinski, E. Surkov - El mundo relativista (Física al Alcance de Todos).pdf
+f6ed775c36bf65178c62c7d6b49531320418c274 Fisica/V. Edelman - Cerca del cero absoluto (Física al Alcance de Todos) (1).pdf
+ed555b8a42f398fcd274e818533543f9b9b1f854 Fisica/V. Komarov - Nueva Astronomia Recreativa (Ciencia Popular) (1).pdf
+2cebd3e047fbe03cc59d5a326367ab7f7de92952 Fisica/V. Langue - Paradojas y sofismas físicos (Física al Alcance de Todos).pdf
+e4b3b5c450ffe0389e7d0bce3ae06376d6fbcc86 Fisica/V. Milántiev, S. Temkó - Física del Plasma (Física al Alcance de Todos).pdf
+27a2aafc82198d036a4819369ba7382f1d0038c9 Fisica/Vol 10 - Landau, Lifshitz - Physical Kinetics (1ed., 1981).pdf
+696cb6e598a28936d1abf9f94b6e93469ba6900c Fisica/Vol 2 - Landau, Lifshitz - The classical theory of fields (4th, 1994).pdf
+cf5c50cac40371fc36738de1e2930bab772c7063 Fisica/Vol 3 - Landau, Lifshitz - Quantum mechanics - non-relativistic theory (3ed., 1991).pdf
+575f56787b5f9d9062fba44ab74297c550902aae Fisica/Vol 4 - Landau, Lifshitz - Quantum electrodynamics (2ed., 1982).pdf
+30d152e2f79c6c102225a2f81c7c356bf0b086ad Fisica/Vol 5 - Landau, Lifshitz - Statistical Physics Part 1 (3rd, 1980).pdf
+0cf8266e3aa506e35ddcbb198a90b2175e869932 Fisica/Vol 6 - Landau, Lifshitz - Fluid mechanics (2nd ed, 1987).pdf
+9dbc747b352f1e96a2056f58c6836a6a141b39c3 Fisica/Vol 7 - Landau, Lifshitz - Theory of Elasticity (2nd ed, 1970).pdf
+f1061f14044d60259d00a3da00c899ffccee60d7 Fisica/Vol 8 - Landau, Lifshitz - Electrodynamics Of Continuous Media (2ed, 1984).pdf
+c546566d9a49c982c09679f3d1d36d3e12ef2225 Fisica/Vol 9 - Landau, Lifshitz - Statistical physics Part 2 (2nd ed, 1981).pdf
+ff55df24345d05b471ddb92304349e73cb18e621 Fisica/Ya Smorodinski - La Temperatura (Física al Alcance de Todos).pdf
+2bad47f164b90cf9b5f9c1bc4f9791250738c773 Fisica/manga 01 fisica.pdf
+3bae1c34292c2b615071c839d07bcc9e29cce397 Fisica/pdfcoffee.com_curso-de-fisica-basica-hmoyses-nussenzveig-vol-4pdf-pdf-free.pdf
+6554caceae02f0112b27d92b23f3ed92b53891f6 Flutter
+7a0ebe168a0b30d2340eec4e60adf7f4c71f4735 Flutter/Aprofundando em Flutter - Desenvolva aplicações Dart com Widgets (Everton Coimbra de Araújo).pdf
+ba81e807b83565af44ca188244c6df285cd1bea7 Flutter/Direito Civil 1 Esquematizado - 1ª Edição - Carlos Roberto Gonçalves (1).pdf
+03aa92bf1825af90d25a1f85b88beee655a0b178 Flutter/Direito-Tributário-Esquematizado-Ricardo-Alexandre-2016.pdf
+c52fe6e290de45e299561b277ced45575f74cf2b Flutter/Flutter for Beginners.pdf
+237b7943e072a077a93cbc7cf8004c01a7a0c9e9 Flutter/Iniciando Com Flutter Framework Desenvolva Aplicacoes Moveis No Dart Side (Leonardo H. Marinho).pdf
+1ea802c97db35fd4d54827505f1d0af6de81fa75 Flutter/Introducao ao flutter.pdf
+33e02734743bfbcb633a86e258e1c664cf2c2b28 Flutter/LENZA_PEDRO_LIVRO_DE_DIREITO_CONSTITUCIO.pdf
+e77db7d66e481a6ba11076ae52a8c8695c1b5f0d Gestão Financeira de Empresas
+775b529da7bc0843aab816bf08432e5ca8ac0ec2 Gestão Financeira de Empresas/GFI - 01 - A Administração Financeira_20200826_1030_RevFinal.pdf
+2141cb3560ef0e338f69d72ab850d44a69087f5b Gestão Financeira de Empresas/GFI - 02 - Risco Financeiro_RevFinal_20221805_1655.pdf
+3be661cee69850f5b2fe5102e5636d974a4fb21c Gestão Financeira de Empresas/GFI - 03 - Decisões de Estrutura e Custo do Capital_20200826_1030_RevFinal.pdf
+909025a75ffe3e26ed94e8661675f3c2da7fd74a Gestão de Infraestrutura de TI
+625e7ef88bc60ef5459edc250ab2edde4bc5768c Gestão de Infraestrutura de TI/Gestão de Infra de TI - Cap 1_Visao geral e historia de Sistemas Operacionais_RevFinal.pdf
+2e69aeecb83cbe05676ba4418f7b32ba2eb2a468 Gestão de Infraestrutura de TI/Gestão de Infra de TI - Cap 2_SistemasdeInformacao_RevFinal.pdf
+9e17a7100cf5df62ea5e73c0156c54ecb0f80d04 Gestão de Infraestrutura de TI/Gestão de Infra de TI - Cap 3_Introducao a Banco de Dados_RevFinal.pdf
+6446ed56ab27d820861f94ec997fa62539ec6837 Gestão de Projetos
+bbc2aebc70a5025d3c2fff29a77fc3fbe130b0b5 Gestão de Projetos/GP - 01 - O que é projeto - O início_RevFinal.pdf
+1677b073ed54f0e580ac11f8ecdf64f49fc0539e Gestão de Projetos/GP - 02 - Integração_RevFinal.pdf
+c7d59f6aefffd17edfd066461b3e914cc59d4780 Gestão de Projetos/GP - 03 - Escopo_RevFinal.pdf
+f2e75f3d2aafd89bb7e53bda9f0006d1a4f83a99 Gestão de Projetos/GP - 04 - Tempo_RevFinal.pdf
+2a8b98fe07436cc3580cac6293e38e0970550867 Gestão de Projetos/GP - 05 - Custo Cronograma_RevFinal.pdf
+0115ef3a0107fec84a6e6466fb239b59957fb789 Gestão de Projetos/GP - 06 - Comunicações_RevFinal.pdf
+43c1fad6cf40447dc318c0a29184e7467c98e591 Gestão de Projetos/GP - 07 - Reuniões_RevFinal.pdf
+f9f4b1513f16d3d37534bc0e5cef3d6de845bd64 Gestão de Projetos/GP - 08 - Riscos_RevFinal.pdf
+cabf356e3660eadc1ac8d9a24406f10a05e4aca2 Gestão de Projetos/GP - 09 - Qualidade_RH_RevFinal.pdf
+943e192b9e1fa1946d5579d6dc76eb7db6855d90 Gestão de Projetos/GP - 10 - Técnicas e ferramentas de organização de projetos_RevFinal.pdf
+21924ecd2329b459426784bf5b66ad816655e56e Gestão de Riscos e Vulnerabilidades
+9b79108221aa15b7d02cec03a8230bc6cb5f9007 Gestão de Riscos e Vulnerabilidades/FIAP ON - Cap 01 - Gestao de Risco_RevFinal.pdf
+64e8ffcb5a3663b5538c5c0de0874eaa407affd8 Gestão de Riscos e Vulnerabilidades/FIAP ON - Cap 02 - Gestão de Vulnerabilidades_RevFinal.pdf
+4adde24f0f7cf1d31ba8b35ac7af0ce022cfd16c Gestão de Riscos e Vulnerabilidades/FIAP ON - Cap 03 - Avaliação de Vulnerabilidades_RevFinal.pdf
+acaaa9edd48d93aed3a0e33c380d37deddc3fe86 Gestão de Riscos e Vulnerabilidades/FIAP ON - Cap 04 - Engenharia Social_RevFinal.pdf
+c61fba3ecb20d8659a50f3650c9fb60bfa2bbb01 Gestão de Riscos e Vulnerabilidades/FIAP ON - Cap 05 - Monitoracao usando Zabbix_RevFinal.pdf
+10e338ea142c9135b55015b08f1025e4712d32b8 Gestão de Riscos e Vulnerabilidades/FIAP ON - Cap 06 - Tratamento e resposta a incidentes_RevFinal.pdf
+d4a3d9dcdb18f2299ce67eadbd3400bbd3671c83 Gestão de Riscos e Vulnerabilidades/FIAP ON - Cap 07 - Disarters and Recovery_RevFinal.pdf
+b61477dac0ae0ecf7cf936539bed224afddc779e Gestão de Riscos e Vulnerabilidades/FIAP ON - Cap 08 - Plano de continuidade de negocio_RevFinal.pdf
+21a917ac4300b6782e9e083e0aeedcf6d8513320 Governança em TI
+778ea660cadf8c04167fb8e6ccf7c984891729f0 Governança em TI/_Cap 1 - Governança Corporativa_RevFinal_20200427_1752.pdf
+1390956b3ca40e3e993fb02d6d132cb109a4dda7 Governança em TI/_Cap 2 - Princípios, mecanismos e estruturas_RevFinal_20200427_1752.pdf
+082d29ac5840e9877db431c09432a2a3afe9da24 Governança em TI/_Cap 3 - Gerenciamento de riscos_RevFinal_20200427_1752.pdf
+e7262f807394f46be7e0df6cf1e4ba94bc53d4c8 Governança em TI/_Cap 4 - Como gerenciar riscos_o padrão ISO 31000_RevFinal_20200506.pdf
+4075286cceb246123911453db2dce0881d1cdebd Governança em TI/_Cap 5 - Conceitos e introdução ao modelo COBIT_RevFinal_20210212.pdf
+f8f62931861f3e4e114cbc7d4ad99c88ec7665cd Governança em TI/_Cap 6 - COBIT_Visão geral_RevFinal_20200506_1146.pdf
+447a555f52ec8b774b9af26101bf94e33eea18b6 Governança em TI/_Cap 7 - O modelo COBIT_RevFinal.pdf
+bade29c33e7d1d8f0569fa3e736a44d136fbe17a Governança em TI/_Cap 8 -Implementando o COBIT_RevFinal_20200506_1146.pdf
+954a95c1b3040e4bc7aa8dcac91feecff906c84d Guia da Startup Como startups e empresas estabelecidas podem criar produtos web rentáveis - Casa do Codigo.pdf
+15d4412e189a96a30a1d9a5c5be6ed9aff5adc61 Hacking Para Leigos (Kevin Beaver) (z-lib.org).pdf
+e226e1f38e2db99c4812164792395a79c7771ba8 IA - Parte 1
+027fe3304d80a0920bbebd0daf7816df6a3b4fef IA - Parte 1/fase 1
+f1e1dc739cf7cefd058637557c62fba52089c313 IA - Parte 1/fase 1/1TIAO - Fase 1 - Cap01 - Play na sua carreira em IA.docx_RevFinal.pdf
+bba06d418c674fa588f59f304b33442ba051500c IA - Parte 1/fase 1/1TIAO - Fase 1 - Cap02 - IA e seu mundo de possibilidades_RevFinal.docx.pdf
+d3f204e010dbf4e20aed9c86d651e35ce3ae4465 IA - Parte 1/fase 1/1TIAO - Fase 1 - Cap03 - Utilizacao de algoritmos e fluxogramas.docx_RevFinal.pdf
+b37a8110d9f053ab40052ea1e4c1d26db0ab373c IA - Parte 1/fase 1/1TIAO - Fase 1 - Cap04 - Python e as tomadas de decisoes com logica_RevFinal.docx.pdf
+93b811c734498b19b5edce0cd0b89987557978e0 IA - Parte 1/fase 1/1TIAO - Fase 1 - Cap05 - A importância de um loop em código_RevFinal.pdf
+d36bdcd19766d4544b6d534ca3690f927da9e484 IA - Parte 1/fase 1/1TIAO - Fase 1 - Cap07 - Entendendo a ciencia de dados_RevFinal.pdf
+807d5640569e0772e75cba1a3669646cc5198ada IA - Parte 1/fase 1/1TIAO - Fase 1 - Cap08 - Linguagem R e sua especialidade_RevFinal.pdf
+8f94b31eecd255e809ff71a778b725433d1cc1ab IA - Parte 1/fase 1/Cap1 - Mercado e Tecnologia_RevFinal.pdf
+9fa8e0f555f67df7bf5dc954832a70eb51656089 IA - Parte 1/fase 2
+22b5fa4c98567bfd60f8a15558b0ca01a95f7d94 IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap01 - Um Mapa do Tesouro_RevFinal (1).pdf
+62638ca6bc2d408f3e56ee3b976be2267bf0bf04 IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap02 - Os Bastidores de uma IA_RevFinal.pdf
+7f7d2cdd05d1b87001e101b6b52dcd1f1dc66075 IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap03 - Voce tem Pensamento Computacional_RevFinal.pdf
+e4d7bb1504e0a17dbe5f2ff461ec68150b2ab944 IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap04 - A Ferramenta do Futuro Python_RevFinal.pdf
+06daef9945070e71fb53fe73f613a7bb7777e58b IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap05 - O que mais que o Python faz_RevFinal.pdf
+163120d0cd1a9778ce92438a3241c5f365e312a0 IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap06 - Python e alem_RevFinal.pdf
+c47d3303483eefc9675d0c517fdf82ff5cd45a3d IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap07 - Decolando com Ciencias de Dados.docx_RevFinal.pdf
+5aa591f7462b9acf7655be852590e4466d0dc0eb IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap08 - Acelera com Data Science_RevFinal.pdf
+43a0431237a0b0ef7b6cd3a97bb4ebd567603d79 IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap10 - Explorando o Mundo dos Bancos de Dados_RevFinal.pdf
+e6917f933a2afc98c10bce66f322e17c73544df4 IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap11 - Mapeando Estruturas de Dados_RevFinal.pdf
+98fa8e087c9b64dba9a7025afc27a5a30e5eb405 IA - Parte 1/fase 2/1TIAO - Fase 2 - Cap12 - Conectando e Quantificando Dados_RevFinal.pdf
+15e7a6ca543908c35c806114ac863d26b291aab2 IA - Parte 1/fase 2/Cap2  - Governança ambiental, social e coorporativa_RevFinal.pdf
+890d61910853152ea0e84fe192ec6a3870c7921f IA - Parte 1/fase 3
+ad2078ddcf94203a702519926362792a0097fb00 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap01 - Construindo uma Maquina Agricola_RevFinal.pdf
+20b4555ff71e5b882cbcc3686c8e6d5a9b44dd09 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap02 - A transformacao de dados fisicos em digitais_RevFinal.pdf
+125b35b96b08356531eba182f68d5d312fc1c4f8 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap03 - A magia da matematica no Python_RevFinal.docx.pdf
+e0e249cf9089043ada766a69c22acae030d8a4b6 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap04 - Arrumacao interna dos dados_RevFinal.pdf
+bcf261ac143e2d909f2d209363ce34321cfcc956 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap05 - Os graficos tambem falam_RevFinal.pdf
+f30764a6f911e2b15dd4e529d9bf575ecad306f1 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap06 - A estatistica de coordenadas e geolocalizacoes_RevFinal.pdf
+744a31029cdd14200008ae607859815426be46a7 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap07 - Explorando as Dimensoes Avançadas da Modelagem de Dados_RevFinal.pdf
+39f5c9be4805bbd9a7143e8f2870471fa4b6d545 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap08 - Desvendando a Perfeicao Estrategistas da Normalizacao de Dados_RevFinal.pdf
+58c45d7c84081987c56c3fe0145b8f8834f731f2 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap09 - Transformando Ideias em Estruturas_RevFinal.pdf
+135534071f4c25e84fc159173c96b7dcfd16b698 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap10 - Explorando SQL e Tipos de Dados na Oracle_RevFinal.pdf
+c82ee21ec3c12a6178b5810f151d9150fcde832f IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap11 - Chamando todas as placas_RevFinal.pdf
+5aa1408feaeb655674098bf4983f403c18a51896 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap12 - A Eletronica de uma IA_RevFinal.pdf
+b22fe0f0c88fd0697812c676e984ba8f636a9b69 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap13 - O Big Data por tras da IA_RevFinal.pdf
+eb59bc47891e522dda5b932bd4972c27af696180 IA - Parte 1/fase 3/1TIAO - Fase 3 - Cap14 - A primeira tecnica de aprendizado de maquina_RevFinal.pdf
+438dfd9c4b686185c58e52612d244b1aef914459 IA - Parte 1/fase 3/Cap3 - Ciencia e Tecnologia.docx_RevFinal.pdf
+8d97e87765d4cbfafa64afde2ddb8e691438b8c0 IA - Parte 1/fase 3/HOW TO - Google Colab_RevFinal.pdf
+10fd733bd1f2a2581fffdb9cc05545d2a19131dc IA - Parte 1/fase 3/How To - Oracle Data Modeler_RevFinal.pdf
+756b28ab66c8e83e4822e84e298069854f81a110 IA - Parte 1/fase 3/How To - Oracle Live_RevFinal.pdf
+962e34dd5c4af976ba67a1bc721e229bcb65703b IA - Parte 1/fase 4
+c8ed634f0b654cd4b9385036f254552b88a59197 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap01 - Automacao e Inteligencia na FarmTech Solutions_RevFinal.pdf
+b4b638fd254be9dab74c180a17ba1b416fb9c2ae IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap02 - Ética e Responsabilidade na IA Generativa_RevFinal.pdf
+c9b7ff40e2ff1c2bd6e30aaf521660f9036fbe70 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap03 - Implementando Algoritmos de Machine Learning com Scikit-learn_RevFinal.pdf
+0862241cc01b9518586df11c3b8234eb359957b5 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap04 - Ciencia de Dados ao Alcance das Maos com Streamlit_RevFinal.pdf
+cdb981006e9ee83bdaf6f4830f47b02590049a09 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap05 - Desvendando Insights Preditivos com Series Temporais e Dados Espaciais_RevFinal.pdf
+1df68b15624304402aab71eff733f140ff4b2ed1 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap06 - Comandos DDL na Pratica - Criando Tabelas com Create Table_RevFinal.pdf
+e8e66014b482c3a2aa18b8ebaf69093f679f7bec IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap07 - Personalizando Tabelas com DDL - Alter Table_RevFinal.pdf
+264e63ae546f08a64dd2c82aefc28e315fc42566 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap08 - Protegendo Dados com Integridade Referencial em DDL_RevFinal.pdf
+6d61c83130ab26f291491c4c7221b9ed6c0aec87 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap09 - DDL Avançado Sequences e Identity no SQL_RevFinal.pdf
+58c40795ced945b129f1a5893d47d5434c8e4a23 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap10 - CyberSecurity 101 - Conceitos Essenciais_RevFinal.pdf
+360adfcd46691270dc512609168d0d86f410b576 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap11 - Formatando dados para Sistemas de IA_RevFinal.pdf
+56e4a1a3e341b7e31276b0afd3e9b1c862ee8564 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap12 - Inteligencia na Representacao do Conhecimento no ESP32_RevFinal.pdf
+b87ea9a01e1a0e1217ce94f3df651e7dbd404a83 IA - Parte 1/fase 4/1TIAO - Fase 4 - Cap13 - Modelagem de Dados com Regressao Supervisionada_RevFinal.pdf
+a89c01646ceaa94acd35ca038bf291b066d4a3e4 IA - Parte 1/fase 4/Cap4 - Étnica e Diversidade_RevFinal.pdf
+cd0cdd5e7abe420f7cc8f5954523c9543cab993f IA - Parte 1/fase 4/HOW TO - Google Colab_RevFinal (1).pdf
+f3d6ad81e475bbcbbad73d190cfd25fc92730098 IA - Parte 1/fase 5
+14555d1a54e88f6dccff29c7cd80058c3229f68e IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap01 - FarmTech na Era da Cloud Computing_RevFinal.pdf
+acaebeaf06e9116effdc02b49742baec8853bd4b IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap02 - Explorando a Inteligência Artificial O Papel dos Agentes Inteligentes_RevFinal.pdf
+c2aa1bd1a0a3272c576df031043fed531fa89c65 IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap03 - Ferramentas Poderosas para Manipular Seu Banco de Dados_RevFinal.pdf
+6e1cbf8d1f4864f23ada36b6dbd92ce58ab6c95f IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap04 - Tornando as Consultas Mais Inteligentes e Eficazes_RevFinal.pdf
+a465012e65070e043abe3adf29237975880eba82 IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap05 - A Magia das Relações em Banco de Dados_RevFinal.pdf
+f4bf799d1f12f603394cbf8b31fb2376527ed443 IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap06 - Funções e Portais Desvendando a Conectividade Inteligente_RevFinal.pdf
+f97cd3266516666af159b17914af640e8ffec0c2 IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap07 -  Comunicação Sem Fio O Futuro da Conectividade Global_RevFinal (1).pdf
+789dcada0cb1860ff47a7561a5e5dc649f395198 IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap08 - Segurança em Foco Cibersegurança versus Segurança da Informação_RevFinal (1).pdf
+dfb347f86c14ebab2652ca03b2a25725ad23dd59 IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap09 - Direito Digital Descomplicado_RevFinal.pdf
+2652d07e1194558814e6daf261c431d96e346f9b IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap10 - Machine Learning Sem Supervisão Uma Jornada pela Descoberta de Dados_RevFinal.pdf
+25d90d3b816fe3f96a4f74c2a5b9dfa86e7d0ac8 IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap11 - Explorando o Poder do Aprendizado por Reforço_RevFinal.pdf
+80c3469f3883992ab7e80eb596b8f7684639a982 IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap12 - Construindo o Futuro com Redes Neurais Artificiais_RevFinal.pdf
+9b692e27ad4a4e07db39be413ab8ec50ece0672d IA - Parte 1/fase 5/1TIAO - Fase 5 - Cap13 - Explorando o Mundo da Computaçao em Nuvem_RevFinal.pdf
+b5d176dc9b8e0f459a8de1277591bb31dd5d7008 IA - Parte 1/fase 5/Cap5 - Histórias e Culturas Afro-Brasileira e Indígena_RevFinal (1).pdf
+01a9b849f41f4f597274d8eac4a6fdd211ce68fa IA - Parte 1/fase 6
+eb98460c6ee16280dcc885bd25ef681980e9da35 IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap01 - Despertar da Rede Neural_RevFinal.pdf
+360c4d2dfff18d4a578ba3776ecde5e2cd15fe9d IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap02 - Desvendando os Ingredientes da IA_RevFinal.pdf
+4811c21acb9c47ac3f13a2d795269a1b6116af18 IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap03 - ESP32 A Janela para a Visão Computacional_Revfinal.pdf
+9e4b6fd98868c4a176f0561af1f5d811f7962489 IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap04 - A Arte do Agrupamento com DRS_RevFinal.pdf
+bfe144bbb5a83813a6192c6bf4548e2b9ef73c2b IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap05 - Comandos em Ação O Poder dos Comandos DRS_RevFinal.pdf
+7c47bc6a7737d4c6a9519dc5201b69c6e1560e78 IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap06 - Funções em Ação Aprofundando no DRS_RevFinal.pdf
+4d3567d8c808ccad6e05ce51c758546da8922262 IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap07 - Cibercrime Segredos dos Crimes Eletrônicos_RevFinal.pdf
+3399ce54c1f681985ae94ff1eb4d7b2b1840432a IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap08 - Engenharia Social O Poder da Persuasão Digital_RevFinal.pdf
+22685cfc1c647bb50c44c1612f74530c6a8460a4 IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap09 - Desbravando o Deep Learning Primeiros Passos com CNN_RevFinal.pdf
+621e6c958204a7ac69b1e9550a0d071ac0cdd506 IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap10 - O Olhar Digital Técnicas de Detecção e Segmentação_RevFinal.pdf
+799f5625d72dab67b620bd488ac9d22abdf3966b IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap11 - Do Local à Nuvem Replicando Infraestruturas na AWS_RevFinal.pdf
+c24df5db7f45eaf7723dcbf112a6cac2e2a76c77 IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap12 - Desmistificando o Serverless Soluções Inovadoras na AWS_RevFinal.pdf
+5f947a492501cde31bd26c9429d2df032a2eaa6e IA - Parte 1/fase 6/1TIAO - Fase 6 - Cap13 - Decifrando o Algoritmo Sistemas de Recomendação Inteligentes_RevFinal.pdf
+51dc868d1faa2713b1c79de4c436837d4cb14673 IA - Parte 1/fase 6/Cap6 - Soluções sustentáveis para mudar o mundo_RevFinal.pdf
+1ed9b2443eac5c7356effe345c02794d2dc083b2 IA - Parte 1/fase 7
+22f8e695b437d66efaf75da296cf34edd407b98b IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap01 - A Consolidação de um Sistema_RevFinal.pdf
+af60e2400897ad1aefa436c1b296e8cfa61c8bdd IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap02 - Aprendendo com o Tempo O Poder das Redes Neurais Recorrentes_RevFinal.pdf
+0db3722d32cb5495a58da7b7e89695e8b303d216 IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap03 - Vozes Digitais Da Fala ao Texto e do Texto à Fala_RevFinal.pdf
+2418d417cd2ebaca38f0e0ad5b0e72439c305204 IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap04 - Algoritmos Genéticos Inteligência Inspirada na Natureza_RevFinal (1).pdf
+04bd1b7a5c810b4c09a93b9b55472df37a53f45c IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap05 - AWS em Tempo Certo Processos Assíncronos, Alertas e Monitoramento Inteligente_RevFinal (1).pdf
+b27fb2453cad2f37f8619248324e4b99ad6bf17c IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap06 - Infraestrutura Viva Microsserviços e Deploys Inteligentes com CloudFormation_RevFinal.pdf
+04883b28249ec66a68ff58e317ea25ee13c3aa95 IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap07 - Inteligência Artificial como Serviço Explorando os Recursos Cognitivos da AWS_RevFinal.pdf
+78a5498908d3170c4f791e866469f5b1eef7004d IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap08 - Código Organizado, Projeto Seguro POO na Prática com Arduino e ESP32_RevFinal.pdf
+22c61fff31a31dc313377a1db4343f28b1bb0727 IA - Parte 1/fase 7/1TIAO - Fase 7 - Cap09 - Guerra Cibernética Simulada Red Team vs Blue Team nas Empresas_RevFinal.pdf
+d6d49812803803b05cb95a2568b1c47ba3cc67a2 IA - Parte 2
+e43d214581926508119db4ced8500a5ac74db8b2 IA - Parte 2/fase 1
+b82a816c5c037b6c4f9e6eaa9d3df9f76821249f IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap01 - A Busca de Dados Preparando o Terreno para a Inteligência Cardiológica_RevFinal (1).pdf
+c42c08b0def0e31820f6252b96e2606886f5fdea IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap02 - RPA Bots que Libertam Humanos_RevFinal.pdf
+e238aac37276db19aebf4dc383381efa0cd4efe4 IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap03 - Computação Neuromórfica Inspirando Máquinas com o Cérebro_RevFinal.pdf
+a09f9efe5b50d418d318996e3efe8c9db62cbc12 IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap04 - Computação Quântica Quebrando as Barreiras Clássicas_RevFinal.pdf
+72a8cc06f41882285a8f08a6b2b40f72017c3917 IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap05 - Frontend Magico Interfaces que Encantam no Mobile_RevFinal.pdf
+dc4093ad3b11144594e3e7017fa3c003eb34df97 IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap06 - IA Generativa Criatividade Codificada_RevFinal.pdf
+b40ccaef19937d57d7e6c7dbf833bf37460a403d IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap07 - Governança em IA O Cérebro Ético dos Dados_RevFinal.pdf
+3f2d19272f1aca0fcc0d9c86174c49fc2430119a IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap08 - IoT Cognitivo Sensores que Falam e Pensam_RevFinal.pdf
+8c021bc1fe632bf4e15742e4ed8cbc2f04ed8900 IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap09 - O Encontro do IoT com a Nuvem_RevFinal.pdf
+35b03fa51f44b6ac4b025a0a3f49ea8b7b474a61 IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap10 - NLP e Chatbots Vozes Digitais que Compreendem_RevFinal.pdf
+b275ce01f1af4e0423f9dc2c9ddb9aa54107604f IA - Parte 2/fase 1/2TIAOA - Fase 1 - Cap11 - Visão Computacional Máquinas com Olhos e Intuição_RevFinal.pdf
+bc1d7548958d1d962c2688e6be0a69d1db98a095 IA - Parte 2/fase 2
+22db89e15abe783c1d9adfae0cf6262aca1cc93b IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap01 - Robôs, Neurônios e Saúde Uma Integração Inovadora pela IA_RevFinal.pdf
+43faa5ba3ddccfb3ad5c1c2998ab8247794e2cc3 IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap02 - RPA na Veia Automatizando Arquivos, Redes e Sistemas com Python_RevFinal.pdf
+0cf16aad4a11be961bc7b102a1cebfc8754a7e6b IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap03 - Cérebros de Silício Neuromorfismo, Memristores e Simulações Biológicas_RevFinal.pdf
+c8f6df15c6289ebb5bbe8be56ad32a5450da24b1 IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap04 - Além do Bit Vetores, Qubits e a Lógica da Computação Quântica_RevFinal.pdf
+1da0ce24644dacf78b738ee5386fdf9af38f9541 IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap05 - Interfaces Inteligentes Conectando IA ao Usuário com React e JWT_RevFinal.pdf
+d267d056e9e80dd5e7eab06eaad71afd5398739c IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap06 - IA Criativa Desvendando o Cérebro das Máquinas que Criam_RevFinal.pdf
+9ff497d6033f7fb2d639719a65ae324cf8033dde IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap07 - IA Responsável Ética, Sustentabilidade e Regulação na Era dos Dados_RevFinal.pdf
+1a33eb199536a534036ef46611435f359f4ed6b8 IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap08 - Memória da Máquina Armazenamento Inteligente em Sistemas IoT_RevFinal.pdf
+b46262d6cbb6b28f6fc08932d82c8390d40aa4f8 IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap09 - Veja para Crer Dashboards e Insights Visuais com IoT e IA_RevFinal.pdf
+c43b55d8f2d0b84805ed0984667f135764a13eaf IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap10 - IA que Entende Processamento de Linguagem Natural Baseado em Regras_RevFinal.pdf
+9ee80f3fd700669e52dbf69b2d7b2ae831682297 IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap11 - NLP no Estilo Clássico Estatística, Vetores e Emoções em Texto_RevFinal.pdf
+c1e71f730f4d639d7b5ce92ba39967e48875c2b2 IA - Parte 2/fase 2/2TIAOA - Fase 2 - Cap12 - Máquinas que Enxergam Filtragem Inteligente de Imagens com IA_RevFinal.pdf
+7395000144e8228a7e16b77bfe40549d5749c850 IOS
+5b241a67f47193f360cc5b09869ddfda9d002a5f IOS/01 - DMAG - A hora da maca_RevFinal.pdf
+a4671113f0732340bfc553d9e4d912af83e2d25e IOS/02 - DMAG - Voe com Swift_RevFinal.pdf
+172b97f6acd18ed5199c746476c7860485b667e9 IOS/03 - DMAG - A casa do iOS_RevFinal.pdf
+09806f1c09d0cf5e7d7c2215168d7d9545439391 IOS/04 - DMAG - Toda aplicacao tem um ciclo_RevFinal.pdf
+942dc18aa076090c5f3b92a6e77492016b781bfd IOS/05 - DMAG - Beleza e usabilidade_RevFinal.pdf
+fce76bf8f9d34d3ba9a6a321f4e9338729df5939 IOS/06 - DMAG - Gravando Informacoes_RevFinal.pdf
+c5e944f3f497c4c474969af5ee4f7d4749656130 IOS/07 - DMAG - Integrando a sua aplicacao_RevFinal.pdf
+e93fc06f4f36f5423a3140f3f4d19245bb6a3070 IOS/08 - DMAG - O Ecossistema de sensores e multimídia_RevFinal.pdf
+ee849fda0cc0cb071482153239396fa2922bca70 Inovação Disruptiva
+61a6fe83a69e9ac319c99a58eb3160fe111db4d6 Inovação Disruptiva/GTI - INO - 01 - Design Thinking_RevFinal.pdf
+5a8084a44940833ac345366c40217e69f1631556 Inovação Disruptiva/GTI - INO - 02 - Storytelling_RevFinal.pdf
+da508e4c1da8ad8d3a0b889e05bee6b2aae2aea2 Inovação Disruptiva/GTI - INO - 03 - Economia Criativa_RevFinal.pdf
+0c5959e4ecbd5984b479fc915c4f28f3e1584cae Inovação Disruptiva/GTI - INO - 04 - Realidades alternativas_RevFinal.pdf
+534d006d8e7152f1b7ff80a660b5579080797f13 Inovação Disruptiva/GTI - INO - 05 - Design sprint_RevFinal (1).pdf
+91abb9a9428b8f6b69dae0c1722ec2dc3ebc69d5 Inovação Disruptiva/GTI - INO - 06 - Smart Cities_RevFinal.pdf
+a26c066bb926a9e1c78f00fd1dd84795e18b80da Inovação Disruptiva/GTI - INO - 07 - Pitch_RevFinal.pdf
+60eacaf7a4c713f45a5d751fcf751f2e96796c4f Inovação Disruptiva/GTI - INO - 08 - Testes de usabilidade_RevFinal.pdf
+9d17b259200393dbc52228d788f58fdb10eb2916 Introducao a Framework de OMR
+397369e1380cd16b9b5527b021273667e4da3d66 Introducao a Framework de OMR/FIAP ON - Cap01 - Introdução ao framework de ORM e anotações Java_RevFinal_20201002.pdf
+c19c3eacae154fdbbbafd0ff287148c7a92eb734 Introducao a Framework de OMR/FIAP ON - Cap02 - JPA Mapeamento_Relacionamentos_Chave-Composta_Herança_RevFinal_20201002.pdf
+03d4ef6f40c0e8d20d9e57cc18d8b6fcb6dcc91f Introducao a Framework de OMR/FIAP ON - Cap03 - Generic DAO_RevFinal_20201002.pdf
+e3b9aca2056cc4ffab375fb18817d649b0bf4b6b Introducao a Framework de OMR/FIAP ON - Cap04 - JPQL_RevFinal_20201002.pdf
+9a9ca5653cb6f75c5e9557992e2c193083f7ea46 Introducao a Framework de OMR/FIAP ON - Cap05- Serializacao RMI Sockets_RevFinal_20201002 (1).pdf
+7b4c520a1cae2a73e36a71cc6edb27cb4e0b8141 Introducao a Framework de OMR/FIAP ON - Cap06 - EJB_RevFinal_20201002.pdf
+08557ccfd0d127ebab8b7d77e0a14d432ca580cc Java Advanced Frameworks
+986670dd05ceaf5916da847e9b070b54c1461042 Java Advanced Frameworks/FIAP ON - Digital Business Enablement - Cap 1 - Design Patterns e Frameworks_RevFinal.pdf
+15637498b1462af2ff78438e0741b66bc7182116 Java Advanced Frameworks/FIAP ON - Digital Business Enablement - Cap 2 - Web Services SOAP (JAX-WS  XML)_RevFinal.pdf
+60e3a67b628b85fddf49951a73421ae91ea04c75 Java Advanced Frameworks/FIAP ON - Digital Business Enablement - Cap 3 - Web Services RestFul (JAX-RS JSON)_Rev2.pdf
+91505e215e65fc98e8ef5dc230034c7924374d2b Java Advanced Frameworks/FIAP ON - Digital Business Enablement - Cap 4 -JSF (Internacionalização, validações, navegação)_RevFinal.pdf
+73b91bf510ca98c981b9847b9e4f2b4571717b27 Java Advanced Frameworks/FIAP ON - Digital Business Enablement - Cap 5 - Primefaces e Ajax_RevFinal.pdf
+71263cc8fa56755f2c147612f9c4314ae86a9f9f Java Advanced Frameworks/FIAP ON - Digital Business Enablement - Cap 6 - Spring MVC_RevFinal.pdf
+143d20bc1c9fef2d2fdd9590dd19b38b2cc48d8a Java Fundamentos
+a6585160ce5fbf18395b43e3eba3c6a5b13ae9b1 Java Fundamentos/Java Fundamentos - Cap 01 - OO_DP_RevFinal_20200608_1256.pdf
+d5d8f7250d59e72087b241f2f939e3366baf6b86 Java Fundamentos/Java Fundamentos - Cap 02 - IDES, Variáveis, Hello World_DP_RevFinal_20220628_1417.pdf
+425c33d3e595d06021c1b056b397ec2ca67efc52 Java Fundamentos/Java Fundamentos - Cap 03 - Classe, métodos, atributos_DP_RevFinal__20200608_1256.pdf
+031e1d95e389baf4ca890ed9990201a71eadc8bf Java Fundamentos/Java Fundamentos - Cap 04 - Herança_DP_RevFinal_20200608_1256.pdf
+eecf061a426b87d01697f282b26ab7b40026d408 Java Fundamentos/Java Fundamentos - Cap 05 - Estrutura de Repetição Arrays Strings e Coleções_RevFinal.pdf
+15103633f361f4155e0183755164c9eff341e16f Java Fundamentos/Java Fundamentos - Cap 06 Exceptions_mais vários_design patterns_DP_RevFinal_20200608_1256.pdf
+7c05d56020fd70cc614e8e78c6ae7c6cc38e7ca2 Java Fundamentos/Java Fundamentos - Cap 07 - Acesso ao Bco de Dados_RevFinal_20200608_1256.pdf
+d387fe9ad1cdc679c64fea0ae45fa454f320858d LOGICA DE PROGRAMAÇÃO
+06d70e57f1a69f389d0eaff9367957518c972b76 LOGICA DE PROGRAMAÇÃO/Fundamentos da programação de computadores_ algoritmos, PASCAL, C_C++ (padrão ANSI) e JAVA.pdf
+1e306e0019c19f3056e6a9281952ec685ff43d7b LOGICA DE PROGRAMAÇÃO/Lógica de Programação.pdf
+4daf049e6fcbfd422be8fff3e2f20b1699b46fa0 LOGICA DE PROGRAMAÇÃO/Lógica de Programação_ Crie seus primeiros programas usando Javascript e HTML.pdf
+65a596828ae7c6830d1c20d327bcbf8f24f44902 LOGICA DE PROGRAMAÇÃO/Treinamento em Lógica de Programação.pdf
+29bdf1b65faafeb2d09afbcbf61301ed6bc99848 Leadership Communication
+5ebb6a1225a2c5194bd63e771ea43940c3f7e686 Leadership Communication/Leadership Communications_Cap 1_O processo da comunicação humana_RevFinal.pdf
+d86bab18534cbd51d7c62f5386acda601d879cc5 Leadership Communication/Leadership Communications_Cap 2_Comunicação de Liderança_RevFinal.pdf
+a5eb0752d5b04ee60bb2751bfb2cacf9cc9c61a6 Leadership Communication/Leadership Communications_Cap 3_Habilidades e Técnicas de Apresentações_RevFinal.pdf
+11191da839bd0a940070cd78752e58a72c02a9b7 Leadership Communication/Leadership Communications_Cap 4_Storytelling_RevFinal.pdf
+48f507c6e2e029bfed83e1847b93f433ea22f864 Leadership and Corporate Accountability
+86f3cb75c687673e611bcdfaefa71087d341a5ef Leadership and Corporate Accountability/Leadership and Corporate Accountability - Capitulo 1_Governanca Corporativa_RevFinal.pdf
+75392fa59cd453bf8e3ad9b5886c30ecd6b5e660 Leadership and Corporate Accountability/Leadership and Corporate Accountability - Capitulo 2_Estruturas de Governanca_RevFinal.pdf
+ae5cb59470c4c482966e5fcb02b82a868be8036b Leadership and Corporate Accountability/Leadership and Corporate Accountability - Capitulo 3_Ambiente Regulatorio_e_Compliance_RevFinal.pdf
+226067a46acc9c258d545824e4282b50a7e5819b Leadership and Corporate Accountability/Leadership and Corporate Accountability - Capitulo 4_Riscos_RevFinal.pdf
+45363d00a7d8783032e3b6c32bfb7a884cc3fd1c Linux Fundamentos
+08a3f00115c0bbbd1276d12ca078b0921ca7be22 Linux Fundamentos/Linux - 1 - Introdução e primeiros comandos_RevFinal_20220513.pdf
+396cd472c084d05538d0e0c1c55b846a88a7ae1a Linux Fundamentos/Linux - 2 - Administração de sistema e editor de texto_RevFinal.pdf
+82080e485635df2ec7323943d36a2483599c5165 Linux Fundamentos/Linux - 3 - Recursos avançados_RevFinal.pdf
+489870ed84178f5cbf715128bbd821a471093cf5 Livros Dev
+9a34ecb77bcd1031d27a58bda09153499191d012 Livros Dev/A Regra é Não Ter Regras - A Netflix e a Cultura da Reinvenção - Autor (Reed Hastings).pdf
+60f9dfa8aebd0e6c35d412f0b54d45216eaadc3d Livros Dev/A Startup Enxuta - Autor (Eric Ries).pdf
+c6168566e5c03913310802e6cc7de1c38083e1e5 Livros Dev/A Web Mobile - Programe para um Mundo de Muitos Dispositivos - Autor (Casa do Código).pdf
+590350970199e841611b5fba2dbbd353a8b4fa93 Livros Dev/A arte de dar feedback (Um guia acima da média - HBR) - Motive sua equipe. Melhore a comunicação. Estabeleça objetivos claros. - Autor (Harvard Business Review).pdf
+5accaf2554bcc3fe4974fdbfd069bffe202310ea Livros Dev/A jornada do empreendedor - O herói da nossa Era - Autor (Casa do Código).pdf
+2f11f30ac8210be0bf943def4a588d321414f326 Livros Dev/AWS Certified Solutions Architect Professional - Autor (Jon Bonso and Adrian Formaran).pdf
+c68becb10af641e996edb88e846e7694647407d6 Livros Dev/AWS Certified SysOps Administrator Associate Version 2 - Autor (Jon Bonso and Lervin John Obando).pdf
+deea1d9393ef24f669acce06ece1736a0aa6a6f1 Livros Dev/AWS For Beginners - The ultimate guide to the fundamentals of aws - Autor (Steve M Burnett).pdf
+15543fbe85667a622a1b2a0c34779aa01f827d13 Livros Dev/Agile - Desenvolvimento de Software com Entregas Frequentes e Foco no Valor de Negócio - Autor (Casa do Código).pdf
+1283da9061d852330244128fa354666dad59b12f Livros Dev/Agile Estimating and Planning - Autor (Mike Cohn).pdf
+4e21d8b11d90559e6eb1412046750d7534ccc00f Livros Dev/Agile Project Management with Scrum - Autor (Ken Schwaber).pdf
+4fa8900b513b7f085d12d0811a7c74bce10a4c3f Livros Dev/Agile Retrospectives - Making Good Teams Great (Pragmatic Programmers) - Autor (Esther Derby).pdf
+06b2a7653e025c4b67591b06c5ac6bcc1657b09a Livros Dev/Amazon AWS - Descomplicando a computação na nuvem - Autor (Casa do Código).pdf
+e260576439ce4f3c79001f62c013b35b9aa7c346 Livros Dev/Apprenticeship Patterns - Guidance for the Aspiring Software Craftsman - Autor (Dave Hoover e Adewale Oshineye).pdf
+6a9500d5ca275aa23f94f3942eee7ff14733ab92 Livros Dev/Construindo API REST com Node JS - Autor (Casa do Código).pdf
+0cd25d7da09500ba889a53124219045138f7ed64 Livros Dev/DSL - Quebre a barreira entre desenvolvimento e negócios - Autor (Casa do Código).pdf
+cedf2f8cb32d3446b6f9c839c7708a22112fc831 Livros Dev/Domain-Driven Design Referência - Sumário de Padrões e Definições - Autor (Eric Evans).pdf
+29da7523a9feb0eedd89e52010ad416cd5e48148 Livros Dev/Gestão de produtos - Como aumentar as chances de sucesso do seu software - Autor (Casa do Código).pdf
+baf89fd40f1c28263536b069b027dce890cd36fc Livros Dev/Google Android - crie aplicações para celulares e tablets - Autor (Casa do Código).pdf
+0ee8111bd3f749f5365e4e8bc70e1e10c0a2ecab Livros Dev/Jenkins - Automatize Tudo sem Complicações - Autor (Casa do Código).pdf
+f4e75dadad8fa519d3927dfbae6e9b950ea1f9df Livros Dev/Kubernetes - Tudo sobre orquestração de contêineres - Autor (Casa do Código).pdf
+576d52fc16e0e4f98a7a0ffb7d4bd54aca91196a Livros Dev/Learning 3.0 - Como os profissionais criativos aprendem - Autor (Casa do Código).pdf
+2e2bd8da7d70108e069bfc2eb056685cdf074a73 Livros Dev/Logica de programaçao Nivelamento - Capítulo 1 - Introdução_RevFinal (1).pdf
+a94463fdd8b95530c57e615e165c7f422e62b1bf Livros Dev/Logica de programaçao Nivelamento - Capítulo 2 - Entrada e Saida de Dados_RevFinal (1).pdf
+135918dc589d0fdb948ab57d96b593d5bb76d0a8 Livros Dev/Logica de programaçao Nivelamento - Capítulo 3  - Desvios condicionais_RevFinal (1).pdf
+07cb0af25fa452d944b3da1b998e465eb131f74f Livros Dev/Logica de programaçao Nivelamento - Capítulo 4 - Laços de Repetiçao_RevFinal (1).pdf
+ee497a1a375c7ff5041d12e9266980bb2810ae58 Livros Dev/Logica de programaçao Nivelamento - Capítulo 5 - Funções procedimentos vetores matrizes_RevFinal (1).pdf
+712a44078ff0b123e88b1084f363908c77af1275 Livros Dev/Logica de programaçao Nivelamento - Capítulo 6 - Projeto agenda de contato_RevFinal (1).pdf
+9158e8a300763f109aa543cbb2cb5ef819735378 Livros Dev/Managing For Happiness - Autor (Jurgen Appelo).pdf
+3b922a4b90d3bb32a34186cda78a400c4eb14798 Livros Dev/O Programador Apaixonado - Construindo uma Carreira Notável em Desenvolvimento de Software - Autor (Casa do Código).pdf
+99c47384a3acf3133e468ce927d481d994681887 Livros Dev/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf
+dbb8e60fc55614ae0d13d6b87575a1d2215970ee Livros Dev/REST - Construa API's inteligentes de maneira simples - Autor (Casa do Código).pdf
+d65f4b152336e75bd5ce41e2c5ccc3924da4ab0b Livros Dev/SEO Prático - Seu Site na Primeira Página das Buscas - Autor (Casa do Código).pdf
+b8d5d902a885dccae43e5f54eea16d7363f7764b Livros Dev/Scrum - Gestão ágil para projetos de sucesso - Autor (Casa do Código).pdf
+c3f1e83dedd70761b68385419ef38f24e2397f31 Livros Dev/Scrum 360 - Um guia completo e prático de agilidade - Autor (Casa do Código).pdf
+7a9427a55d25822ec15a9e9a45ee6222eb3b048d Livros Dev/Secrets of a Buccaneer-Scholar - How Self-Education and the Pursuit of Passion Can Lead to a Lifetime of Success - Autor (James Marcus Bach).pdf
+274eca54104f1ab8d8f1157182720cc12e434197 Livros Dev/The Cambridge Handbook of the Learning Sciences - Autor(R. Keith Sawyer).pdf
+ec7c962fe9282c82f746d384ac0f9101f1d16ac9 Livros Dev/The Mythical Man-Month Essays On Software Engineering - Author (Frederick P. Brooks).pdf
+c1f49a049894a1bebbde714079382c3338c611a9 Manual De Sobrevivencia Do Novo Programador Dicas Pragmaticas Para Sua Evolucao Profissional (Casa do Codigo) (z-lib.org).pdf
+ad8d065d2990bdbb98a0202f50db945e0606e940 Marketing Conceitos e Prática
+dbca844ee28ba4e4995ab9d596a79e531de63dce Marketing Conceitos e Prática/Marketing Conceitos e Pratica_Cap11_LinksPatrocinados_RevFinal.pdf
+911fd21e9f3a7a0db78e2523a7071ec2d99edf4e Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap10_SEO_algoritmos_boas_praticas_RevFinal.pdf
+56c35d6fa2536c17e0f937ccd5bfb46687262bba Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap12_Afiliados_RevFinal.pdf
+78fd85a679a47e64940f20b9f715de2b728bd0df Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap13_Email_MKT_RevFinal.pdf
+5e21c25a224fe58fcb338cea16edb67fb8986da6 Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap14_Marketing_de_conteúdo_e_inbound_marketing_RevFinal.pdf
+4edd8f0dac86ea0066082a8f0c4ad71c7b0a8954 Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap15_Preço_e_promoção_RevFinal.pdf
+0cd0bf718148883f490c3a512a7e5225882c3d2e Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap16_Processo_de_decisão_RevFinal.pdf
+4e94fba0891d980b14aa64bd583c0b470fb0c6af Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap17_Funil_de_conversão_RevFinal.pdf
+84cae6d79332c4e1217c57619f85ee9f8dac0152 Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap18_Gamificação _RevFinal.pdf
+a8bfa2bb6d7f4d50dd0828b17710c5fd15c93cdf Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap19_Gestão_de_mídia_digital_RevFinal.pdf
+509f06c0d5108a821d691b4eda45e4e5ce07d449 Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap1_Marketing Digital_RevFinal.pdf
+adf7a173dbbc13a93ed34b86d873d9abbd27037a Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap2_Tendências do Marketing Digital_RevFinal.pdf
+8825a56f5f92e55d0d949c8e4fb9362505b0cd5b Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap3_IntroduçãoPlanejamentoMktDigital_RevFinal.pdf
+744e6d55d1db05985f066198c2eee637100cb038 Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap4_Ética e aspectos legais no ambiente Digital_RevFinal.pdf
+d1a147d9ad419dce31cf30cdcf3f82bc2ce071bb Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap5_Produto e Experiência do cliente_RevFinal.pdf
+c93464d37dea631246f3c80383890ea86dfabe93 Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap6_PersonaBuyer_RevFinal.pdf
+53fa62bf0f7a3e362f7a1b8fe85f4a5bd0d3f552 Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap7_DireitoDoConsumidor_RevFinal.pdf
+89716af7ae7342cabae63cb9eea2bef48883453f Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap8_ComoAtraireEngajarClientes_RevFinal.pdf
+fe9e9eef8114b814635441f246cc8a62bd5e0603 Marketing Conceitos e Prática/Marketing Conceitos e Prática_Cap9_SEO_introducao_avancado_RevFinal.pdf
+79c67b44444364fb85ada5a9efde3e2fec629adf Marketing em Plataformas de Social Media
+4fb42185ca2223b50e6e4a6862ead79a5346beae Marketing em Plataformas de Social Media/MSM - 01 - Introdução a MKT e Social Media_RevFinal.pdf
+db9ccbd15ad919a3538893189608076135ea06ab Marketing em Plataformas de Social Media/MSM - 02 - Marketing de conteúdo e inbound marketing_RevFinal.pdf
+be3f72119c18f6ff828009e56b3824c86dd5a947 Marketing em Plataformas de Social Media/MSM - 03 - Facebook, Instagram, Pinterest, Twitter, Linkedin e Youtube RevFinal.pdf
+84fade77d61d6ac104fe2fd0bcb9d9a7eee5427f Marketing em Plataformas de Social Media/MSM - 04 - Transmídia  Storytelling RevFinal.pdf
+499aac20836d65c396489cf67eeae3bb2bff3a91 Marketing em Plataformas de Social Media/MSM - 05 - Digital Influencers RevFinal.pdf
+7273ddf41d613b7d47f799e5793a4565c86a5153 Marketing em Plataformas de Social Media/MSM - 06 - Gestão de crise digital e monitoramento online RevFinal.pdf
+4580d0290a7012790571ea58a8eee0d25d070b87 Metaverso, Digital Twins and Blockchain
+80e5c289bb1392dec1a90cc3afcd7f2d6db8f5c7 Metaverso, Digital Twins and Blockchain/NANO - META - 01 - Conceito e história_RevFinal.pdf
+3ec86c44ead3a93307f9a1c8a42892c80219e90a Metaverso, Digital Twins and Blockchain/NANO - META - 02 - Plataformas e aplicações de metaverso_RevFinal.pdf
+15ed3df981e6e507f0e4c6e2aae5493265aee285 Metaverso, Digital Twins and Blockchain/NANO - META - 03 - Metaverso, Blockchain e NFTs_RevFinal.pdf
+7b2a7a48a9cdc5dcd7bfc640735c1113d318e324 Metaverso, Digital Twins and Blockchain/NANO - META - 04 - Conhecendo a ferramenta_RevFinal.pdf
+8b1a796a6bc88fe3cb29819c5de6910ee552c839 Metaverso, Digital Twins and Blockchain/NANO - META - 05 - Criando seu metaverso_RevFinal.pdf
+b1ca32ce29488765c07a0777b935c2edee818308 Metaverso, Digital Twins and Blockchain/NANO - META - 06 - Personalizando seu metaverso.docx.pdf
+52c68d0fa75561617642d50f75ed59b02a815500 Metaverso, Digital Twins and Blockchain/NANO - META - 07 - Projetos no metaverso_RevFinal.pdf
+6d0291dc7187f5b8ebd9f2409ad5821d46ff196f Metaverso, Digital Twins and Blockchain/NANO - META - 08 - Introducao aos Digital_RevFinal.pdf
+c9368adb478a868a87e713dfae1e4affcf5c229a Metaverso, Digital Twins and Blockchain/NANO - META - 09 - Futuro e Tendencias_RevFinal.pdf
+5f7a3b7358e5cff21a8343c8b062d9085bc67cbe Mobile Marketing
+dff5098416a4bddd94c6460209247bb2422be967 Mobile Marketing/01 - Desktop,M-site Responsivo e App_RevFinal.pdf
+054062aa8efb5ee6cc64077e4a5bc8ae7d62bcfe Mobile Marketing/02 - Mobile UX_RevFinal.pdf
+560b769c2e3891fa439b04d9bab1c36f085fb2e6 Mobile Marketing/03 - Cenário Mobile_RevFinal.pdf
+5fbd8df5ad8753c9f3327345f5168cdf9111750d Mobile Marketing/04 - Mobile advertising_RevFinal.pdf
+4840581747855957dea4e4195c75fb1f7dfa99d1 Mobile Marketing/05 - Mídia Programática, display e formatos_RevFinal.pdf
+8a91d39e0132e14d857235a99a3fbbd9980f8c2c Mobile Marketing/06 - SMS e Messaging apps_RevFinal.pdf
+bf2d145b0f98604248b1fb5b22793414321dfce6 Modelagem 3D
+8195740207995cb4bde2ed45af439af16b1a4f1e Modelagem 3D/Modelagem 3D - MA3D - Cap 01 - Introducao ao Mudbox_Revfinal.pdf
+cee9d6c0d317ea305be72c6be4061140f2c1b723 Modelagem 3D/Modelagem 3D - MA3D - Cap 02 - Detalhamento Mudbox_RevFinal.pdf
+348583155327f7ad40f61b50cf1c93d8ff181cdf Modelagem 3D/Modelagem 3D - MA3D - Cap 03 - Folhagens Modelagem_RevFinal.pdf
+e649718ac106bb0e6e2fe6e8b55eedf7b003c1a9 Modelagem 3D/Modelagem 3D - MA3D - Cap 04 - Folhagens Modelagem e Texturizacao_RevFinal.pdf
+b8bc235023dba4b565f4f46a3d635798d8ca531c Modelagem 3D/Modelagem 3D - MA3D - Cap 05 - Rigging de Personagens Humanoides_RevFinal.pdf
+d9bf1950ec8d86513790bb0bf5f8f3ed462ac12a Modelagem 3D/Modelagem 3D - MA3D - Cap 06 - Rochas Modelagem e Texturizacao_RevFinal.pdf
+51c9c1ddd5634a287a1552f5e81e8cab78b181b4 Modelagem 3D/Modelagem 3D - MA3D - Cap 07 - Modelagem de Personagem - RevFinal.pdf
+5143fc3cb16e3c6984056c7b420a69f5dde278f6 Modelagem 3D/Modelagem 3D - MA3D - Cap 08 - Base Mesh - RevFinal.pdf
+dfe690421a35a46b7629c190e399d3a101986d67 Multimídia e Criatividade
+cf211125f5bbbb1e2c7ce05806dbafac72102a5f Multimídia e Criatividade/ON - MC-01 - Multimidia_e_Criatividade_RevFinal.pdf
+f98324471e910bb43fa0668ec601e5c57683f2cf Multimídia e Criatividade/ON - MC-02 - História da Arte_RevFinal.pdf
+ed2f500ce2fb0e145d8f3f37682fb79522ac1c8c Multimídia e Criatividade/ON - MC-03 - Criatividade_ pensando fora da caixa_RevFinal.pdf
+c89bd607275fab79cf670a7b54a9fa2d26210ebd Multimídia e Criatividade/ON - MC-04 - Referências e repertórios_RevFinal.pdf
+891d3eb70a38ce88cafd4f30ab35a4dd899b4d0e Multimídia e Criatividade/ON - MC-05 - Briefing  Brainstorm_RevFinal.pdf
+d4cb3c69aac68223482af57e209fd3b8d67c0d30 Multimídia e Criatividade/ON - MC-06 - Identidade visual_RevFinal.pdf
+966232f507139899d59e48189e300e5f6f15924d Oracle database
+3c7442edd145155bbe8504bcc4a06af2595b45d3 Oracle database/Cap01 - Apresentação da disciplina_RevFinal.pdf
+9dd922b18bdd4640bef98c99ff291286e54407c7 Oracle database/Cap02 - Estruturas de controle_RevFinal.pdf
+49f4138651ccb45f807940a507ec56d548b430a8 Oracle database/Cap03 - Cursores_RevFinal.pdf
+5e10cf409860a112309753ca021cc46ad16847b1 Oracle database/Cap04 - Introducao aos objetos compilados_RevFinal.pdf
+fb73903674da0ae67c3f0bdb249d749dd0aebf11 Oracle database/Cap05 - Tratamento de Exceções_RevFinal.pdf
+6cd9694da27ebd61cda498454c180bc07a213fe3 Oracle database/Cap06 - Stored Procedures_RevFinal.pdf
+936f69d1d3bd78eb10cf56d8c3d3d74a2f3194ee Oracle database/Cap07 - Stored Functions_RevFinal.pdf
+70a9979029460dec055206526c6a36d03676099a Oracle database/Cap08 - Packages_RevFinal.pdf
+e8479db0ef705e07c2c1a5371c389e14c99749f2 Oracle database/Cap09 - Triggers_RevFinal.pdf
+e9f63d593a93b26a2067f8e561c7c28a12cdaadd Oracle database/Cap10 - Comandos DDL - Create Table_RevFinal.pdf
+c38273428735e5e21682ab0b71368bf3db78a031 Oracle database/Cap11 - Comandos DML_RevFinal.pdf
+dee0276b12ee95ce01f9289bf339f9949662a378 Oracle database/Cap12 - Comandos DRS_RevFinal.pdf
+fcd512bd952231a42078318d39bfd613b2278bee Oracle database/Cap13 - Comando DRS - Join_RevFinal.pdf
+de447487f54331d81c662b22f46028197da14719 Pensamento estrategico
+bba82ec180a067f5c4dd15f40c7f9d3bb7db0890 Pensamento estrategico/FIAP ON-20_BM_cap1_Pensamento Estratégico_RevFinal (1).pdf
+debda3b3658503b7076d5fd7fcdde51424ff6268 Pensamento estrategico/FIAP ON-20_BM_cap2_Administração Estratégica_RevFinal (1).pdf
+e32cfab21a91d733288840f781e0e326158f0bcb Pensamento estrategico/FIAP ON-20_BM_cap3_Do estratégico ao operacional_ReviFinal (1).pdf
+ceb13e3ca9f43680a5c5c358c8348d8c338e428a Pensamento estrategico/FIAP ON-20_BM_cap4_Entendendo os processos_RevFinal (1).pdf
+0655725f5a0e268e1596f6177f2e25e6adb5ba0c Pensamento estrategico/FIAP ON-20_BM_cap5_Business Process Management_RevFinal (1).pdf
+3383be6f73f76793739e2e8871c1b3ed86a02d11 Pensamento estrategico/FIAP ON-20_BM_cap6_Estruturando Serviços_RevFinal (1).pdf
+de2a9c6edd484fbf006f4c9824a00eac2835a894 Pensamento estrategico/FIAP ON-20_BM_cap7_Biblioteca_de_Servicos_RevFinal (1).pdf
+121b5ff78a5056c12fe7733c4cdc64b55ef5e522 Pensamento estrategico/FIAP ON-20_BM_cap8_Consolidando Servicos_RevFinal (1).pdf
+0857e8595c82e0403260374099ba0b06c7ece0a4 Planejamento Estratégico em Marketing
+d81c87945ef18cbac128c8c9c3ae809cfe7357ed Planejamento Estratégico em Marketing/PE - Cap01 - Conceito de planejamento estratégico empresarial_RevFinal.pdf
+46b5b0651a5b20a114f501998fcc519abd3952ea Planejamento Estratégico em Marketing/PE - Cap02 - Definição de visão, valores e políticas_RevFinal.pdf
+9a4072007b4600033993aaaab6f2008f805f4e46 Planejamento Estratégico em Marketing/PE - Cap03 - Fatores críticos do sucesso e estratégia de competição_Revfinal.pdf
+56e3e03e7180af60bc2612d8c68245a4cd112e3c Planejamento Estratégico em Marketing/PE - Cap04 - Perfil do planejador de marketing digital_Revfinal.pdf
+f335f021059991725799bf656f114c18e9118899 Planejamento Estratégico em Marketing/PE - Cap05 - Estrutura e etapas do plano de marketing_RevFinal.pdf
+57ce257bed1dc6f8a4e9fa4b8f642d134c0e9def Planejamento Estratégico em Marketing/PE - Cap06 - Definindo os objetivos e estratégias_RevFinal.pdf
+5e663236494eda3288989c011ca95240d74be45b Planejamento Estratégico em Marketing/PE - Cap07 - Gestão de orçamento_RevFinal.pdf
+2b3693d1fbbc9ae9251992a37430dd9a32e04ed9 Planejamento Estratégico em Marketing/PE - Cap08 - Marketing em Startups e empresas com DNA inovador_Revfinal.pdf
+a272d70c2704f616590996de71f397a86ea656d8 Podman-in-Action-ebook-FINAL-Red-Hat-Developer.pdf
+f5d740b09b1fa62ec4f8318d961f836797c836da README.md
+30c3ed307fab0cefb24b84dbe408ed2782a7617b React Native Desenvolvimento De Aplicativos Mobile Com React - Casa do Codigo.pdf
+62c1d581a02338b3bba25f97018ae2ef1bb73506 Responsive Web Development
+aa4b8e72ac041a915f230ea7b1252d2b252f1e7d Responsive Web Development/WEB - Cap 01 - Introdução ao desenvolvimento web_RevFinal.pdf
+effcff77c8a33943a4cdbe4dabf761976ccd484c Responsive Web Development/WEB - Cap 02 - HTML-o inicio_RevFinal.pdf
+2f858358b1a4297e3ffe49a9c414e9afc85bc882 Responsive Web Development/WEB - Cap 03 - CSS_RevFinal_20201008.pdf
+ab5ba5b891b796a1246a017486df3bb56e91c450 Responsive Web Development/WEB - Cap 04 - JavaScript_RevFinal_20201008.pdf
+8fe4cae85cbfd9863e2545aece3e1c844faaf000 Responsive Web Development/WEB - Cap 05 - jQuery_RevFinal.pdf
+5976e0d0093ab6571a200c29d7fc4af775c0ac1c Responsive Web Development/WEB - Cap 06 - Git Github_RevFinal.pdf
+2d9629508ebe872fcb80bd989bfad9e7272cce6a Responsive Web Development/WEB - Cap 07 - ReactJS_RevFinal.pdf
+828b048cb3bc483d3907ca3b39f56f1ef2eca11a Responsive Web Development/WEB - Cap 08 - BOOTSTRAP_RevFinal_20201008.pdf
+3e447db6c3d35b3a24e1dc1f6707f7a457f7624d Roteiro para Multimídia
+8fbf74ce1496655ec1383df723b9a804f499813d Roteiro para Multimídia/Roteiro - Cap01 - Roteirização O começo_RevFinal.pdf
+56de9146139191e78ee3073d3775c5ecb04dd101 Roteiro para Multimídia/Roteiro - Cap02 - Modos de Roteiro (Ficção ou não ficção)_RevFinal.pdf
+743ea6c72b3c15b5ac1a28e85c103d755da9ba01 Roteiro para Multimídia/Roteiro - Cap03 - Estruturas Tradicionais Da Narrativa_RevFinal.pdf
+bd0033c198ae825c73a471432b0ab6c5728cacdd Roteiro para Multimídia/Roteiro - Cap04 - Os Paradigmas de roteiro Aristoteles Field e Thompson_RevFinal.pdf
+82d67f8c2fef26d4c51bf57285be8ac9aed9d087 Roteiro para Multimídia/Roteiro - Cap05 - Generos e Formas de Ficcao_RevFinal.pdf
+97ba9fd892aecde4f5addda54deb387b97b57091 Roteiro para Multimídia/Roteiro - Cap06 - Formatos cinema televisão a transmidia e a interatividade_RevFinal.pdf
+f84011d59d18427b6e8d1fb05f4e7d3bff2b324b Roteiro para Multimídia/Roteiro - Cap07 - Como escrever um projeto de roteiro_RevFinal.pdf
+3e1eaadce0f7cf693789a5b7c3d364ab5f759b07 Roteiro para Multimídia/Roteiro - Cap08 - Roteirização fim (como escrevo uma cena)_RevFinal.pdf
+09e90e72202d760712a1664154f4fc896c4bbd9d SOA aplicado - Integrando com web services e além.pdf
+cef596de5ce0f8079efb50bc0998769f632a7210 Seguranca em aplicacoes Web.pdf
+c9604229d6be137a7a06a27334d6855403ccfe2e Sistemas Coorporativos
+781b789ea4f5f6d3196bc8d50c2e22b209b4c711 Sistemas Coorporativos/GC - 01 - Atualidade Tecnológica e Importância de TI_20201127_1110_RevFinal.pdf
+e8614745c9f6009bbcd855fce90e93b0a58197aa Sistemas Coorporativos/GC - 02 - Fundamentos de SI_20201127_1110_RevFinal.pdf
+ad0789ffcb7870201933042da69a7071a72ad638 Sistemas Coorporativos/GC - 03 - Qualidade em SI_20201127_1110_RevFinal.pdf
+4304c2abdb9e5522de729b79ab40c38042d9fe81 Sistemas Coorporativos/GC - 04 - SI Departamentais_20201127_1110_RevFinal.pdf
+cf0165f196df1a22db23b1abe9e7e8ec4ec75c70 Sistemas Coorporativos/GC - 05 - Sistemas Integrados ERP_20201127_1111_RevFinal.pdf
+7fabe37fa7efe24eb036c5c57530ac8f09a84519 Sistemas Coorporativos/GC - 06 - Sistemas de Comércio Eletrônico_20201127_1111_RevFinal.pdf
+f92769a1425b756148c300aa1714b0969d9e55fe Sistemas Coorporativos/GC - 07 - CRM_20201127_1112_RevFinal.pdf
+3e048a730bd0a6617e059cfdc1b506c50e7ee5de Sistemas Coorporativos/GC - 08 - Sistemas de Logística_20201127_1112_RevFinal.pdf
+cf716ce0d5fedce7f85f04058b0682ef9a18ada6 Sistemas Coorporativos/GC - 09 - Sistemas na Área de Saúde_20201127_1112_RevFinal.pdf
+ab8980fbaf6d09b74ee32cf8e5b86ce1fc5c64ea Sistemas Coorporativos/GC - 10 - SI Gerenciais_20201127_1113_RevFinal.pdf
+876abd03d52a54bbc75eb8316745b3fe92b9fa9d Sistemas Coorporativos/GC - 11 - Extranets_RevFinal.pdf
+0c8bb39224b2a639092ef16dc7dce3ced723f4d8 Sistemas Coorporativos/GC - 12 - SI e IA_20201127_1113_RevFinal.pdf
+e7ea2e1d6578f55bdf76d85052ea5d824d961e14 Social Media Planning
+9643381483907f3953e8118bbb126a210d760c98 Social Media Planning/SMP - 01 - Objetivos da empresa vs investimentos e ROI_RevFinal.pdf
+1e0acaf2b086f198ae3f87634704fe227ac7283c Social Media Planning/SMP - 02 - Planejamento estratégico de mídia e otimização de budget_RevFinal.pdf
+5d3f4a4e77237e1de76cf1a6fd990a17ef0267f4 Social Media Planning/SMP - 03 - Visao Geral ferramentas de planejamento de midia_RevFinal.pdf
+a45f380a5aec5e24f1ef5a1a2746874a41d4c5b5 Social Media Planning/SMP - 04 - Modelos de atribuicao_RevFinal.pdf
+be2a1987ec5ee71c9dc0d800d71216bbdd18219b Social Media Planning/SMP - 05 - Análise de Cohort_RevFinal.pdf
+29a3faff18dd2bb86cd0a0a28a38ddf56999f7c9 Social Media Planning/SMP - 06 - Análise de investimentos versus resultados obtidos_RevFinal.pdf
+f73c3a36ecd718ce82544452d50f79356b8cba78 Social Media Planning/SMP - 07 - Processos de melhoria contínua_renumerar_RevFinal.pdf
+2898658d31344cbaf1abb9b7e87bb191b3d7508b Sprint a Sprint Erros e acerto - Mary Provinciatto.pdf
+7fd36ad6efb257ca569221eee7308cc71cde68cb User Experience
+d30f522df477b8457002ef40c6297dd0ac48ccdc User Experience/UX - Cap1 - Usabilidade e Arquitetura da Informação_O que é isso mesmo_RevFinal.pdf
+8db715613adcff925187d9836b82c50f7e97a7fc User Experience/UX - Cap2 - Para quem você está criando sua UX_RevFinal.pdf
+73c270320a45ce7da089b62e5dfdfa44ceaf00d6 User Experience/UX - Cap3 - Protótipos e design_Revfinal.pdf
+cda108069bfe87ff515fcb3f58c72d673be550c9 User Experience/UX - Cap4 - Pesquisas e dados_RevFinal.pdf
+fded6cd65a782e0c08d97bd7f28f166040cfa52f User Experience/UX - Cap5 - Conceitos_Revfinal.pdf
+b4cf89d1cd690e43a5214b79b040a0290eda40c3 User Experience/UX - Cap6 - Ferramentas_Revfinal.pdf
+31cac8692ad33b9fdef00f2373dd428e03447709 Videomaking
+bb3fa563c73ea856dd73c2929cedb5ff5d2a173a Videomaking/VM - 01 - Breve história da imagem e movimento_RevFinal.pdf
+14f700ee8483fe9ffbb73a550496e5b11b255a52 Videomaking/VM - 02 - Conceito de plano e movimentos de câmera_RevFinal.pdf
+5c39a558fa7ce8b6dc9c905b027654c46214db00 Videomaking/VM - 03 - Produção audiovisual equipes e processos_RevFinal.pdf
+986f3ec899a34558bcdefd973d55edd4e97f8f8b Videomaking/VM - 04 - Conhecendo Adobe Premiere_RevFinal.pdf
+ca261cb4cf9cc8b203c64b4ff81583b15041df39 Videomaking/VM - 05 - Edição de vídeo e processo criativo, montando um videoclipe_RevFinal.pdf
+ff71d12aa6415d0cedb399838b33f09e21142b38 Videomaking/VM - 06 - Técnicas essenciais para edição profissional no Premiere_RevFinal.pdf
+76d89b2bd93a4695b0d2a2cd653ad7330e17d63d Videomaking/VM - 07 - Ferramentas para edição de reels_RevFinal.pdf
+ee9b638b99dead5e31bc41dab085a8aa81873b28 Videomaking/VM - 08 - O Som no audiovisual e ferramentas de edição_RevFinal.pdf
+116282aa8b88b4d4921b268e6ff77ef0e166c4d2 Videomaking/VM - 09 - O uso da cor no audiovisual_Aspectos narrativos, correção e color grading_ RevFinal.pdf
+61dae4983d47dddce78b8b61b3def20c1de06be7 Videomaking/VM - 10 - Técnicas avançadas - dominando chroma key, proxies, multicameras e gestão de mídia_RevFinal.pdf
+20af45ef4856bc56a74e9bbf066f21a623e80881 
+a9c976a189b10c58ccef1a9c8b9028dfa8c5e8c3 Flutter
+c6c69f8c4a4d829619ca01f3efd9f6303d20a75f 
+02e694aee0726185fea5e49734e5d5a097172721 
+1054d3e4292e07a03bfbca277356ddd270e20ba8 README.md
+fcaf7a1c60ce28ebc8c31ca56fafb822737296e7 
+9e6caa6b481fb74d6045a5b691fe3908ffc9e240 
+ddd45934090a9543ee70e0a45ce0b521b720d883 
+8aedce02cff9440bc5ce618915105ce2499f5156 
+2cf9ea09019d59f17a30725d6796b15470b05993 
+d0162026b8b38ba9e514ef3e6ba553eb83fc9a80 
+9e8502c70700d5e8bc8e075a6d043f1663509354 
+799463148e573d67e1feb13e28ea4263cf489b38 
+eff5e25b3e92f90f5584654ab677ae043ba23817 
+35bec000eb438f888f74dd9d9e2bdf3d33db177f 
+f172ebfad182f310c1091296fbda36d1f9549192 
+a8f62b61c7d6d6e9f6ec9f85e57396eecc50e761 
+53dc8bb5d9dff33a541968a24ad797981b1f2f69 
+38bb965ab3403c587c46ccd3348408fb295d52ae 
+20c635f3cfd30bebd100af451a35e93466de4c54 
+b974fbe2f7a844a91a3126fa8729d6daba8ee16e 
